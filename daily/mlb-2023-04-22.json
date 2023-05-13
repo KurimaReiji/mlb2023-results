@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2023-04-22",
+    "road": "Blue Jays",
+    "home": "Yankees",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Nationals",
+    "home": "Twins",
+    "score": "10 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Dodgers",
+    "home": "Cubs",
+    "score": "9 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Rockies",
+    "home": "Phillies",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Marlins",
+    "home": "Guardians",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Marlins",
+    "home": "Guardians",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Mets",
+    "home": "Giants",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "White Sox",
+    "home": "Rays",
+    "score": "3 - 4",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Reds",
+    "home": "Pirates",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Tigers",
+    "home": "Orioles",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Athletics",
+    "home": "Rangers",
+    "score": "3 - 18",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Red Sox",
+    "home": "Brewers",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Astros",
+    "home": "Braves",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Padres",
+    "home": "D-backs",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Royals",
+    "home": "Angels",
+    "score": "11 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-22",
+    "road": "Cardinals",
+    "home": "Mariners",
+    "score": "4 - 5",
+    "status": "Final"
+  }
+]

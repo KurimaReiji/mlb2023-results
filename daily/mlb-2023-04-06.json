@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2023-04-06",
+    "road": "Red Sox",
+    "home": "Tigers",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-06",
+    "road": "Blue Jays",
+    "home": "Royals",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-06",
+    "road": "Giants",
+    "home": "White Sox",
+    "score": "16 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-06",
+    "road": "Nationals",
+    "home": "Rockies",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-06",
+    "road": "Padres",
+    "home": "Braves",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-06",
+    "road": "Dodgers",
+    "home": "D-backs",
+    "score": "5 - 2",
+    "status": "Final"
+  }
+]

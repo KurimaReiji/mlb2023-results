@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2023-03-31",
+    "road": "Mets",
+    "home": "Marlins",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-03-31",
+    "road": "White Sox",
+    "home": "Astros",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-03-31",
+    "road": "Rockies",
+    "home": "Padres",
+    "score": "4 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-03-31",
+    "road": "D-backs",
+    "home": "Dodgers",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-03-31",
+    "road": "Guardians",
+    "home": "Mariners",
+    "score": "9 - 4",
+    "status": "Final"
+  }
+]

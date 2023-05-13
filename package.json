@@ -1,0 +1,27 @@
+{
+  "name": "mlb2023-results",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KurimaReiji/mlb2023-results.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KurimaReiji/mlb2023-results/issues"
+  },
+  "homepage": "https://github.com/KurimaReiji/mlb2023-results#readme",
+  "dependencies": {
+    "puppeteer": "^20.2.0"
+  }
+}

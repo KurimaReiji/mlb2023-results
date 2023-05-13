@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2023-04-18",
+    "road": "Guardians",
+    "home": "Tigers",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Guardians",
+    "home": "Tigers",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Phillies",
+    "home": "White Sox",
+    "score": "7 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Phillies",
+    "home": "White Sox",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Rays",
+    "home": "Reds",
+    "score": "10 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Giants",
+    "home": "Marlins",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Orioles",
+    "home": "Nationals",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Angels",
+    "home": "Yankees",
+    "score": "5 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Twins",
+    "home": "Red Sox",
+    "score": "4 - 5",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Rangers",
+    "home": "Royals",
+    "score": "12 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "D-backs",
+    "home": "Cardinals",
+    "score": "8 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Blue Jays",
+    "home": "Astros",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Pirates",
+    "home": "Rockies",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Cubs",
+    "home": "Athletics",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Braves",
+    "home": "Padres",
+    "score": "8 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Brewers",
+    "home": "Mariners",
+    "score": "6 - 5",
+    "status": "Final/11"
+  },
+  {
+    "date": "2023-04-18",
+    "road": "Mets",
+    "home": "Dodgers",
+    "score": "0 - 5",
+    "status": "Final"
+  }
+]

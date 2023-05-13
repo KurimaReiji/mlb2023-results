@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2023-04-29",
+    "road": "Orioles",
+    "home": "Tigers",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Orioles",
+    "home": "Tigers",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Pirates",
+    "home": "Nationals",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Pirates",
+    "home": "Nationals",
+    "score": "16 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Royals",
+    "home": "Twins",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Mariners",
+    "home": "Blue Jays",
+    "score": "0 - 1",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Cubs",
+    "home": "Marlins",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Reds",
+    "home": "Athletics",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Guardians",
+    "home": "Red Sox",
+    "score": "7 - 8",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Phillies",
+    "home": "Astros",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Giants",
+    "home": "Padres",
+    "score": "11 - 16",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Yankees",
+    "home": "Rangers",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Rays",
+    "home": "White Sox",
+    "score": "12 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Angels",
+    "home": "Brewers",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "D-backs",
+    "home": "Rockies",
+    "score": "11 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-04-29",
+    "road": "Cardinals",
+    "home": "Dodgers",
+    "score": "0 - 1",
+    "status": "Final"
+  }
+]
