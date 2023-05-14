@@ -4058,5 +4058,54 @@
     "home": "Dodgers",
     "score": "2 - 4",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Rays",
+    "home": "Yankees",
+    "score": "8 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Mariners",
+    "home": "Tigers",
+    "score": "5 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Reds",
+    "home": "Marlins",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Cubs",
+    "home": "Twins",
+    "score": "1 - 11",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Braves",
+    "home": "Blue Jays",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Rangers",
+    "home": "Athletics",
+    "score": "5 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-13",
+    "road": "Cardinals",
+    "home": "Red Sox",
+    "score": "4 - 3",
+    "status": "Final"
   }
 ]
