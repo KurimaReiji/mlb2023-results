@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2023-05-17",
+    "road": "Pirates",
+    "home": "Tigers",
+    "score": "8 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-17",
+    "road": "Reds",
+    "home": "Rockies",
+    "score": "6 - 11",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-17",
+    "road": "Twins",
+    "home": "Dodgers",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-17",
+    "road": "D-backs",
+    "home": "Athletics",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-17",
+    "road": "Phillies",
+    "home": "Giants",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-17",
+    "road": "Royals",
+    "home": "Padres",
+    "score": "4 - 3",
+    "status": "Final"
+  }
+]
