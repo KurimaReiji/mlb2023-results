@@ -4590,5 +4590,19 @@
     "home": "White Sox",
     "score": "3 - 1",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Yankees",
+    "home": "Blue Jays",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Dodgers",
+    "home": "Cardinals",
+    "score": "8 - 16",
+    "status": "Final"
   }
 ]
