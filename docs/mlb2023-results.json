@@ -4562,5 +4562,33 @@
     "home": "White Sox",
     "score": "2 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Angels",
+    "home": "Orioles",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Rays",
+    "home": "Mets",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Nationals",
+    "home": "Marlins",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-18",
+    "road": "Guardians",
+    "home": "White Sox",
+    "score": "3 - 1",
+    "status": "Final"
   }
 ]
