@@ -82,5 +82,26 @@
     "home": "Cardinals",
     "score": "5 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-19",
+    "road": "Twins",
+    "home": "Angels",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-19",
+    "road": "Red Sox",
+    "home": "Padres",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-19",
+    "road": "Marlins",
+    "home": "Giants",
+    "score": "3 - 4",
+    "status": "Final"
   }
 ]
