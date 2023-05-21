@@ -68,5 +68,19 @@
     "home": "Rays",
     "score": "4 - 8",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-20",
+    "road": "Dodgers",
+    "home": "Cardinals",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-20",
+    "road": "Mariners",
+    "home": "Braves",
+    "score": "7 - 3",
+    "status": "Final"
   }
 ]
