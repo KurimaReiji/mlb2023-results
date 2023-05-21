@@ -82,5 +82,19 @@
     "home": "Braves",
     "score": "7 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-20",
+    "road": "Twins",
+    "home": "Angels",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-20",
+    "road": "Red Sox",
+    "home": "Padres",
+    "score": "4 - 2",
+    "status": "Final"
   }
 ]
