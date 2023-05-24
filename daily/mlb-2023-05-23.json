@@ -89,5 +89,19 @@
     "home": "Rockies",
     "score": "4 - 5",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-23",
+    "road": "Red Sox",
+    "home": "Angels",
+    "score": "0 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-23",
+    "road": "Athletics",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
   }
 ]
