@@ -5167,6 +5167,13 @@
   },
   {
     "date": "2023-05-24",
+    "road": "Orioles",
+    "home": "Yankees",
+    "score": "9 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-24",
     "road": "Dodgers",
     "home": "Braves",
     "score": "3 - 4",
@@ -5191,6 +5198,20 @@
     "road": "Marlins",
     "home": "Rockies",
     "score": "10 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-24",
+    "road": "Red Sox",
+    "home": "Angels",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-24",
+    "road": "Athletics",
+    "home": "Mariners",
+    "score": "1 - 6",
     "status": "Final"
   }
 ]
