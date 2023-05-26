@@ -5213,5 +5213,33 @@
     "home": "Mariners",
     "score": "1 - 6",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Cardinals",
+    "home": "Reds",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Blue Jays",
+    "home": "Rays",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Marlins",
+    "home": "Rockies",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Padres",
+    "home": "Nationals",
+    "score": "8 - 6",
+    "status": "Final"
   }
 ]
