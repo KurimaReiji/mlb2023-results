@@ -26,5 +26,40 @@
     "home": "Nationals",
     "score": "8 - 6",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "White Sox",
+    "home": "Tigers",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Orioles",
+    "home": "Yankees",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Phillies",
+    "home": "Braves",
+    "score": "5 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Mets",
+    "home": "Cubs",
+    "score": "10 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-25",
+    "road": "Giants",
+    "home": "Brewers",
+    "score": "5 - 0",
+    "status": "Final"
   }
 ]
