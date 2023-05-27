@@ -5290,5 +5290,75 @@
     "home": "Cubs",
     "score": "9 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Dodgers",
+    "home": "Rays",
+    "score": "3 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "White Sox",
+    "home": "Tigers",
+    "score": "12 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Rangers",
+    "home": "Orioles",
+    "score": "12 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Padres",
+    "home": "Yankees",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Cardinals",
+    "home": "Guardians",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Phillies",
+    "home": "Braves",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Nationals",
+    "home": "Royals",
+    "score": "12 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Blue Jays",
+    "home": "Twins",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Giants",
+    "home": "Brewers",
+    "score": "15 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Mets",
+    "home": "Rockies",
+    "score": "5 - 2",
+    "status": "Final"
   }
 ]
