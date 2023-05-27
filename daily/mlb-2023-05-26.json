@@ -75,5 +75,33 @@
     "home": "Rockies",
     "score": "5 - 2",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Marlins",
+    "home": "Angels",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Red Sox",
+    "home": "D-backs",
+    "score": "7 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Astros",
+    "home": "Athletics",
+    "score": "5 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-26",
+    "road": "Pirates",
+    "home": "Mariners",
+    "score": "11 - 6",
+    "status": "Final"
   }
 ]
