@@ -68,5 +68,26 @@
     "home": "Brewers",
     "score": "3 - 1",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-27",
+    "road": "Red Sox",
+    "home": "D-backs",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-27",
+    "road": "Reds",
+    "home": "Cubs",
+    "score": "8 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-27",
+    "road": "Cardinals",
+    "home": "Guardians",
+    "score": "2 - 1",
+    "status": "Final/10"
   }
 ]
