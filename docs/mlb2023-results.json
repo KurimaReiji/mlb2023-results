@@ -5647,5 +5647,26 @@
     "home": "Giants",
     "score": "4 - 14",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-29",
+    "road": "Braves",
+    "home": "Athletics",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-29",
+    "road": "Angels",
+    "home": "White Sox",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-29",
+    "road": "Nationals",
+    "home": "Dodgers",
+    "score": "1 - 6",
+    "status": "Final"
   }
 ]
