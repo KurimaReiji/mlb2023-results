@@ -5668,5 +5668,12 @@
     "home": "Dodgers",
     "score": "1 - 6",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-29",
+    "road": "Yankees",
+    "home": "Mariners",
+    "score": "10 - 4",
+    "status": "Final"
   }
 ]
