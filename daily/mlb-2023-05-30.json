@@ -68,5 +68,40 @@
     "home": "White Sox",
     "score": "3 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-30",
+    "road": "Rockies",
+    "home": "D-backs",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-30",
+    "road": "Braves",
+    "home": "Athletics",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-30",
+    "road": "Yankees",
+    "home": "Mariners",
+    "score": "10 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-30",
+    "road": "Pirates",
+    "home": "Giants",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-30",
+    "road": "Nationals",
+    "home": "Dodgers",
+    "score": "3 - 9",
+    "status": "Final"
   }
 ]
