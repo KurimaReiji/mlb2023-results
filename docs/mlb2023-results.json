@@ -5829,5 +5829,40 @@
     "home": "Dodgers",
     "score": "10 - 6",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Padres",
+    "home": "Marlins",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Brewers",
+    "home": "Blue Jays",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Reds",
+    "home": "Red Sox",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Phillies",
+    "home": "Mets",
+    "score": "1 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Twins",
+    "home": "Astros",
+    "score": "8 - 2",
+    "status": "Final"
   }
 ]
