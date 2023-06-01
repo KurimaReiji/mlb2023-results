@@ -82,5 +82,19 @@
     "home": "Astros",
     "score": "8 - 2",
     "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Rockies",
+    "home": "D-backs",
+    "score": "0 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-05-31",
+    "road": "Yankees",
+    "home": "Mariners",
+    "score": "0 - 1",
+    "status": "Final/10"
   }
 ]
