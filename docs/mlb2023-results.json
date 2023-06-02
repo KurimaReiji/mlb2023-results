@@ -5906,5 +5906,26 @@
     "home": "D-backs",
     "score": "4 - 5",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Reds",
+    "home": "Red Sox",
+    "score": "2 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Guardians",
+    "home": "Twins",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Angels",
+    "home": "Astros",
+    "score": "2 - 5",
+    "status": "Final"
   }
 ]
