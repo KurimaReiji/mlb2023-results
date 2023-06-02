@@ -5878,5 +5878,33 @@
     "home": "Mariners",
     "score": "0 - 1",
     "status": "Final/10"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Brewers",
+    "home": "Blue Jays",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Phillies",
+    "home": "Mets",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Padres",
+    "home": "Marlins",
+    "score": "10 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-01",
+    "road": "Rockies",
+    "home": "D-backs",
+    "score": "4 - 5",
+    "status": "Final"
   }
 ]
