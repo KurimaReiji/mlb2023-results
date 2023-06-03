@@ -5997,5 +5997,33 @@
     "home": "White Sox",
     "score": "0 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-02",
+    "road": "Cubs",
+    "home": "Padres",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-02",
+    "road": "Braves",
+    "home": "D-backs",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-02",
+    "road": "Yankees",
+    "home": "Dodgers",
+    "score": "4 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-02",
+    "road": "Orioles",
+    "home": "Giants",
+    "score": "3 - 2",
+    "status": "Final"
   }
 ]
