@@ -8,6 +8,13 @@
   },
   {
     "date": "2023-06-03",
+    "road": "Rays",
+    "home": "Red Sox",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-03",
     "road": "Tigers",
     "home": "White Sox",
     "score": "1 - 2",
@@ -67,6 +74,20 @@
     "road": "Brewers",
     "home": "Reds",
     "score": "10 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-03",
+    "road": "Guardians",
+    "home": "Twins",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-03",
+    "road": "Yankees",
+    "home": "Dodgers",
+    "score": "6 - 3",
     "status": "Final"
   }
 ]
