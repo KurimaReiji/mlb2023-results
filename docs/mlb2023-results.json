@@ -6403,5 +6403,19 @@
     "home": "Padres",
     "score": "4 - 1",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-07",
+    "road": "Athletics",
+    "home": "Pirates",
+    "score": "9 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-07",
+    "road": "Mariners",
+    "home": "Padres",
+    "score": "3 - 10",
+    "status": "Final"
   }
 ]
