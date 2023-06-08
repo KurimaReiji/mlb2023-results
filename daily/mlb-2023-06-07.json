@@ -82,5 +82,12 @@
     "home": "Rockies",
     "score": "5 - 4",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-07",
+    "road": "Cubs",
+    "home": "Angels",
+    "score": "2 - 6",
+    "status": "Final"
   }
 ]
