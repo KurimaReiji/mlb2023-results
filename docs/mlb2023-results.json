@@ -6529,5 +6529,47 @@
     "home": "Yankees",
     "score": "6 - 5",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "White Sox",
+    "home": "Yankees",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Tigers",
+    "home": "Phillies",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Astros",
+    "home": "Blue Jays",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Red Sox",
+    "home": "Guardians",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Mets",
+    "home": "Braves",
+    "score": "10 - 13",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Cubs",
+    "home": "Angels",
+    "score": "1 - 3",
+    "status": "Final"
   }
 ]
