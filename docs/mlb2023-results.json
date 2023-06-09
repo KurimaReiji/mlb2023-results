@@ -6494,5 +6494,40 @@
     "home": "Angels",
     "score": "2 - 6",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Dodgers",
+    "home": "Reds",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Twins",
+    "home": "Rays",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Orioles",
+    "home": "Brewers",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "Giants",
+    "home": "Rockies",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-08",
+    "road": "White Sox",
+    "home": "Yankees",
+    "score": "6 - 5",
+    "status": "Final"
   }
 ]
