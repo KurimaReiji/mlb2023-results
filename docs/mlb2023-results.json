@@ -6655,5 +6655,26 @@
     "home": "Cardinals",
     "score": "4 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-09",
+    "road": "Padres",
+    "home": "Rockies",
+    "score": "9 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-09",
+    "road": "Mariners",
+    "home": "Angels",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-09",
+    "road": "Cubs",
+    "home": "Giants",
+    "score": "3 - 2",
+    "status": "Final"
   }
 ]
