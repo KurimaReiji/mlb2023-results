@@ -6753,5 +6753,26 @@
     "home": "Brewers",
     "score": "2 - 1",
     "status": "Final/10"
+  },
+  {
+    "date": "2023-06-10",
+    "road": "Astros",
+    "home": "Guardians",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-10",
+    "road": "Cubs",
+    "home": "Giants",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-10",
+    "road": "Red Sox",
+    "home": "Yankees",
+    "score": "1 - 3",
+    "status": "Final"
   }
 ]
