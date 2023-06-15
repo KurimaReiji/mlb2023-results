@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2023-06-14",
+    "road": "Braves",
+    "home": "Tigers",
+    "score": "10 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-14",
+    "road": "Braves",
+    "home": "Tigers",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-14",
+    "road": "Brewers",
+    "home": "Twins",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-14",
+    "road": "Giants",
+    "home": "Cardinals",
+    "score": "8 - 5",
+    "status": "Final/10"
+  }
+]
