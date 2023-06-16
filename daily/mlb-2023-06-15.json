@@ -19,5 +19,40 @@
     "home": "D-backs",
     "score": "5 - 4",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Tigers",
+    "home": "Twins",
+    "score": "8 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Rockies",
+    "home": "Braves",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Pirates",
+    "home": "Cubs",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Angels",
+    "home": "Rangers",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Nationals",
+    "home": "Astros",
+    "score": "4 - 1",
+    "status": "Final/10"
   }
 ]
