@@ -7152,5 +7152,26 @@
     "home": "Dodgers",
     "score": "8 - 4",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Blue Jays",
+    "home": "Orioles",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Rays",
+    "home": "Athletics",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Phillies",
+    "home": "D-backs",
+    "score": "5 - 4",
+    "status": "Final"
   }
 ]
