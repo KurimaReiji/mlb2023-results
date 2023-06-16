@@ -54,5 +54,19 @@
     "home": "Astros",
     "score": "4 - 1",
     "status": "Final/10"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "Guardians",
+    "home": "Padres",
+    "score": "8 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-15",
+    "road": "White Sox",
+    "home": "Dodgers",
+    "score": "4 - 5",
+    "status": "Final/11"
   }
 ]
