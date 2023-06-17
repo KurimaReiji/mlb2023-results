@@ -7292,5 +7292,40 @@
     "home": "Brewers",
     "score": "4 - 5",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "Guardians",
+    "home": "D-backs",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "Rays",
+    "home": "Padres",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "Phillies",
+    "home": "Athletics",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "Giants",
+    "home": "Dodgers",
+    "score": "7 - 5",
+    "status": "Final/11"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "White Sox",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
   }
 ]
