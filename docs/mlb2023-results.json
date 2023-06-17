@@ -7222,5 +7222,12 @@
     "home": "Dodgers",
     "score": "4 - 5",
     "status": "Final/11"
+  },
+  {
+    "date": "2023-06-16",
+    "road": "Orioles",
+    "home": "Cubs",
+    "score": "3 - 10",
+    "status": "Final"
   }
 ]
