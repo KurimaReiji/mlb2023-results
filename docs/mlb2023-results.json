@@ -7456,6 +7456,13 @@
   },
   {
     "date": "2023-06-18",
+    "road": "Yankees",
+    "home": "Red Sox",
+    "score": "1 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-18",
     "road": "Cardinals",
     "home": "Mets",
     "score": "8 - 7",
