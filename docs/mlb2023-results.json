@@ -7698,5 +7698,19 @@
     "home": "Brewers",
     "score": "5 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-20",
+    "road": "Padres",
+    "home": "Giants",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-20",
+    "road": "Dodgers",
+    "home": "Angels",
+    "score": "2 - 0",
+    "status": "Final"
   }
 ]
