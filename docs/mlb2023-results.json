@@ -7768,5 +7768,33 @@
     "home": "Nationals",
     "score": "0 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Mariners",
+    "home": "Yankees",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Athletics",
+    "home": "Guardians",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Red Sox",
+    "home": "Twins",
+    "score": "4 - 5",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Rangers",
+    "home": "White Sox",
+    "score": "6 - 3",
+    "status": "Final"
   }
 ]
