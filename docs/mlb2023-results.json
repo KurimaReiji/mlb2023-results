@@ -7712,5 +7712,61 @@
     "home": "Angels",
     "score": "2 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Orioles",
+    "home": "Rays",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Blue Jays",
+    "home": "Marlins",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Rockies",
+    "home": "Reds",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Cubs",
+    "home": "Pirates",
+    "score": "8 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Royals",
+    "home": "Tigers",
+    "score": "4 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Mets",
+    "home": "Astros",
+    "score": "8 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "D-backs",
+    "home": "Brewers",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Cardinals",
+    "home": "Nationals",
+    "score": "0 - 3",
+    "status": "Final"
   }
 ]
