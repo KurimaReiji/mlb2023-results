@@ -7796,5 +7796,19 @@
     "home": "White Sox",
     "score": "6 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Dodgers",
+    "home": "Angels",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-21",
+    "road": "Padres",
+    "home": "Giants",
+    "score": "2 - 4",
+    "status": "Final"
   }
 ]
