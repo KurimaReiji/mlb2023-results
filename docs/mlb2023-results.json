@@ -7845,5 +7845,26 @@
     "home": "Giants",
     "score": "10 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Royals",
+    "home": "Rays",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Pirates",
+    "home": "Marlins",
+    "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Mariners",
+    "home": "Yankees",
+    "score": "10 - 2",
+    "status": "Final"
   }
 ]
