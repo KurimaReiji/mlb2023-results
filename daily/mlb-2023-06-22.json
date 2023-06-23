@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2023-06-22",
+    "road": "D-backs",
+    "home": "Nationals",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Braves",
+    "home": "Phillies",
+    "score": "5 - 1",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Athletics",
+    "home": "Guardians",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Red Sox",
+    "home": "Twins",
+    "score": "0 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-22",
+    "road": "Padres",
+    "home": "Giants",
+    "score": "10 - 0",
+    "status": "Final"
+  }
+]
