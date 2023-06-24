@@ -7897,6 +7897,13 @@
   },
   {
     "date": "2023-06-23",
+    "road": "Mariners",
+    "home": "Orioles",
+    "score": "13 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-23",
     "road": "Mets",
     "home": "Phillies",
     "score": "1 - 5",
@@ -7935,6 +7942,27 @@
     "road": "Angels",
     "home": "Rockies",
     "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-23",
+    "road": "Nationals",
+    "home": "Padres",
+    "score": "3 - 13",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-23",
+    "road": "Astros",
+    "home": "Dodgers",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-23",
+    "road": "D-backs",
+    "home": "Giants",
+    "score": "5 - 8",
     "status": "Final"
   }
 ]
