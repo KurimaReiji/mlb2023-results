@@ -75,5 +75,26 @@
     "home": "Guardians",
     "score": "2 - 4",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Astros",
+    "home": "Dodgers",
+    "score": "7 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Twins",
+    "home": "Tigers",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Nationals",
+    "home": "Padres",
+    "score": "2 - 0",
+    "status": "Final"
   }
 ]
