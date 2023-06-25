@@ -96,5 +96,12 @@
     "home": "Padres",
     "score": "2 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Angels",
+    "home": "Rockies",
+    "score": "25 - 1",
+    "status": "Final"
   }
 ]
