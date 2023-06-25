@@ -7964,5 +7964,82 @@
     "home": "Giants",
     "score": "5 - 8",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Cubs",
+    "home": "Cardinals",
+    "score": "9 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Mariners",
+    "home": "Orioles",
+    "score": "4 - 6",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "D-backs",
+    "home": "Giants",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Mets",
+    "home": "Phillies",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Rangers",
+    "home": "Yankees",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Athletics",
+    "home": "Blue Jays",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Royals",
+    "home": "Rays",
+    "score": "9 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Braves",
+    "home": "Reds",
+    "score": "7 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Red Sox",
+    "home": "White Sox",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Pirates",
+    "home": "Marlins",
+    "score": "3 - 4",
+    "status": "Final/11"
+  },
+  {
+    "date": "2023-06-24",
+    "road": "Brewers",
+    "home": "Guardians",
+    "score": "2 - 4",
+    "status": "Final"
   }
 ]
