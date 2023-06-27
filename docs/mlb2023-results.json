@@ -8174,5 +8174,26 @@
     "home": "Dodgers",
     "score": "6 - 5",
     "status": "Final/11"
+  },
+  {
+    "date": "2023-06-26",
+    "road": "Brewers",
+    "home": "Mets",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-26",
+    "road": "Twins",
+    "home": "Braves",
+    "score": "1 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-26",
+    "road": "Tigers",
+    "home": "Rangers",
+    "score": "7 - 2",
+    "status": "Final"
   }
 ]
