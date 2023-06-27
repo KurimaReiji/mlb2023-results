@@ -8177,6 +8177,13 @@
   },
   {
     "date": "2023-06-26",
+    "road": "Reds",
+    "home": "Orioles",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-26",
     "road": "Brewers",
     "home": "Mets",
     "score": "2 - 1",
@@ -8194,6 +8201,20 @@
     "road": "Tigers",
     "home": "Rangers",
     "score": "7 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-26",
+    "road": "White Sox",
+    "home": "Angels",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-26",
+    "road": "Nationals",
+    "home": "Mariners",
+    "score": "4 - 8",
     "status": "Final"
   }
 ]
