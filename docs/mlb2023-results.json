@@ -8293,5 +8293,33 @@
     "home": "Rockies",
     "score": "5 - 0",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-27",
+    "road": "White Sox",
+    "home": "Angels",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-27",
+    "road": "Nationals",
+    "home": "Mariners",
+    "score": "7 - 4",
+    "status": "Final/11"
+  },
+  {
+    "date": "2023-06-27",
+    "road": "Rays",
+    "home": "D-backs",
+    "score": "4 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-27",
+    "road": "Yankees",
+    "home": "Athletics",
+    "score": "1 - 2",
+    "status": "Final"
   }
 ]
