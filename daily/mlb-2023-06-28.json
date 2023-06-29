@@ -75,5 +75,33 @@
     "home": "Royals",
     "score": "14 - 1",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "Dodgers",
+    "home": "Rockies",
+    "score": "8 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "White Sox",
+    "home": "Angels",
+    "score": "11 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "Rays",
+    "home": "D-backs",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "Yankees",
+    "home": "Athletics",
+    "score": "11 - 0",
+    "status": "Final"
   }
 ]
