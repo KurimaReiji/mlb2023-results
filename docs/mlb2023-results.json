@@ -8321,5 +8321,19 @@
     "home": "Athletics",
     "score": "1 - 2",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "Twins",
+    "home": "Braves",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-28",
+    "road": "Nationals",
+    "home": "Mariners",
+    "score": "4 - 1",
+    "status": "Final"
   }
 ]
