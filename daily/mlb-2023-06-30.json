@@ -75,5 +75,26 @@
     "home": "Royals",
     "score": "9 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-30",
+    "road": "D-backs",
+    "home": "Angels",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-30",
+    "road": "White Sox",
+    "home": "Athletics",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-30",
+    "road": "Rays",
+    "home": "Mariners",
+    "score": "15 - 4",
+    "status": "Final"
   }
 ]
