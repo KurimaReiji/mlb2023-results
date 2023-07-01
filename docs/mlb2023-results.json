@@ -8510,5 +8510,19 @@
     "home": "Rockies",
     "score": "14 - 3",
     "status": "Final"
+  },
+  {
+    "date": "2023-06-30",
+    "road": "Guardians",
+    "home": "Cubs",
+    "score": "1 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-06-30",
+    "road": "Padres",
+    "home": "Reds",
+    "score": "5 - 7",
+    "status": "Final/11"
   }
 ]
