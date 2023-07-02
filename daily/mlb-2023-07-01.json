@@ -15,6 +15,13 @@
   },
   {
     "date": "2023-07-01",
+    "road": "Yankees",
+    "home": "Cardinals",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-01",
     "road": "Red Sox",
     "home": "Blue Jays",
     "score": "7 - 6",
@@ -67,6 +74,20 @@
     "road": "Marlins",
     "home": "Braves",
     "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-01",
+    "road": "Dodgers",
+    "home": "Royals",
+    "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-01",
+    "road": "Rays",
+    "home": "Mariners",
+    "score": "3 - 8",
     "status": "Final"
   }
 ]
