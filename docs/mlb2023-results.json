@@ -8688,6 +8688,13 @@
   },
   {
     "date": "2023-07-01",
+    "road": "Guardians",
+    "home": "Cubs",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-01",
     "road": "Dodgers",
     "home": "Royals",
     "score": "4 - 6",
@@ -8698,6 +8705,20 @@
     "road": "Rays",
     "home": "Mariners",
     "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-01",
+    "road": "Tigers",
+    "home": "Rockies",
+    "score": "4 - 2",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-07-01",
+    "road": "D-backs",
+    "home": "Angels",
+    "score": "3 - 1",
     "status": "Final"
   }
 ]
