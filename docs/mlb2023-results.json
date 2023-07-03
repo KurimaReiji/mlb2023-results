@@ -8811,5 +8811,19 @@
     "home": "Mariners",
     "score": "6 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-02",
+    "road": "Guardians",
+    "home": "Cubs",
+    "score": "8 - 6",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-07-02",
+    "road": "Giants",
+    "home": "Mets",
+    "score": "4 - 8",
+    "status": "Final"
   }
 ]
