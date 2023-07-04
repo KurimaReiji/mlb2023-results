@@ -1,6 +1,13 @@
 [
   {
     "date": "2023-07-03",
+    "road": "Angels",
+    "home": "Padres",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
     "road": "Astros",
     "home": "Rangers",
     "score": "12 - 11",
@@ -46,6 +53,20 @@
     "road": "Royals",
     "home": "Twins",
     "score": "4 - 8",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Mariners",
+    "home": "Giants",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Pirates",
+    "home": "Dodgers",
+    "score": "2 - 5",
     "status": "Final"
   }
 ]
