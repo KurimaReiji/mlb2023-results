@@ -8825,5 +8825,19 @@
     "home": "Mets",
     "score": "4 - 8",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Astros",
+    "home": "Rangers",
+    "score": "12 - 11",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Cubs",
+    "home": "Brewers",
+    "score": "6 - 8",
+    "status": "Final"
   }
 ]
