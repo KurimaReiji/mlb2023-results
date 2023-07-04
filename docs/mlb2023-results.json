@@ -8839,5 +8839,40 @@
     "home": "Brewers",
     "score": "6 - 8",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Reds",
+    "home": "Nationals",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Cardinals",
+    "home": "Marlins",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Orioles",
+    "home": "Yankees",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Braves",
+    "home": "Guardians",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-03",
+    "road": "Royals",
+    "home": "Twins",
+    "score": "4 - 8",
+    "status": "Final"
   }
 ]
