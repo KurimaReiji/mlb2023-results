@@ -9000,5 +9000,12 @@
     "home": "Dodgers",
     "score": "9 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-05",
+    "road": "Rockies",
+    "home": "Astros",
+    "score": "4 - 6",
+    "status": "Final"
   }
 ]
