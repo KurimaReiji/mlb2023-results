@@ -40,7 +40,7 @@ const browser = await puppeteer.launch({
 const page = await browser.newPage();
 for (const date of dates) {
   const targetURL = `https://www.mlb.com/scores/${date}`;
-  await page.goto(targetURL);
+  await page.goto(targetURL, { timeout: 60000 });
 
   let data;
   try {
