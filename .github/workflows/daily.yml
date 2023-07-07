@@ -20,9 +20,7 @@ jobs:
     - name: install puppeteer
       run: npm ci
     - name: get results of today
-      run: | 
-        curl https://www.mlb.com/scores
-        node ../puppeteer/get_results.js `TZ=Pacific/Honolulu date -I` && jq -s '.|add' mlb-2023-*json > ../docs/mlb2023-results.json
+      run: node ../puppeteer/get_results.js `TZ=Pacific/Honolulu date -I` && jq -s '.|add' mlb-2023-*json > ../docs/mlb2023-results.json
       working-directory: ./daily
     - name: commit and push
       run: |
