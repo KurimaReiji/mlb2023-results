@@ -75,5 +75,33 @@
     "home": "Brewers",
     "score": "3 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-07",
+    "road": "Pirates",
+    "home": "D-backs",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-07",
+    "road": "Mets",
+    "home": "Padres",
+    "score": "7 - 5",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-07-07",
+    "road": "Angels",
+    "home": "Dodgers",
+    "score": "4 - 11",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-07",
+    "road": "Rockies",
+    "home": "Giants",
+    "score": "5 - 2",
+    "status": "Final"
   }
 ]
