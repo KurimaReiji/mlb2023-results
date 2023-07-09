@@ -75,5 +75,19 @@
     "home": "Brewers",
     "score": "8 - 5",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-08",
+    "road": "Mariners",
+    "home": "Astros",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-08",
+    "road": "Braves",
+    "home": "Rays",
+    "score": "6 - 1",
+    "status": "Final"
   }
 ]
