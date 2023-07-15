@@ -9504,5 +9504,75 @@
     "home": "AL All-Stars",
     "score": "3 - 2",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Padres",
+    "home": "Phillies",
+    "score": "8 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Giants",
+    "home": "Pirates",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Marlins",
+    "home": "Orioles",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "D-backs",
+    "home": "Blue Jays",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Dodgers",
+    "home": "Mets",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Brewers",
+    "home": "Reds",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "White Sox",
+    "home": "Braves",
+    "score": "0 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Red Sox",
+    "home": "Cubs",
+    "score": "8 - 3",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Guardians",
+    "home": "Rangers",
+    "score": "4 - 12",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Yankees",
+    "home": "Rockies",
+    "score": "2 - 7",
+    "status": "Final"
   }
 ]
