@@ -68,5 +68,26 @@
     "home": "Rockies",
     "score": "2 - 7",
     "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Astros",
+    "home": "Angels",
+    "score": "7 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Twins",
+    "home": "Athletics",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-14",
+    "road": "Tigers",
+    "home": "Mariners",
+    "score": "5 - 4",
+    "status": "Final"
   }
 ]
