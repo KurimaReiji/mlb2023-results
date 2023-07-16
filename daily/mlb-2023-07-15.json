@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2023-07-15",
+    "road": "Padres",
+    "home": "Phillies",
+    "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Padres",
+    "home": "Phillies",
+    "score": "4 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Rays",
+    "home": "Royals",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Rays",
+    "home": "Royals",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Nationals",
+    "home": "Cardinals",
+    "score": "7 - 5",
+    "status": "Final/10"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Red Sox",
+    "home": "Cubs",
+    "score": "4 - 10",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "D-backs",
+    "home": "Blue Jays",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Guardians",
+    "home": "Rangers",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Giants",
+    "home": "Pirates",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Marlins",
+    "home": "Orioles",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Twins",
+    "home": "Athletics",
+    "score": "10 - 7",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Brewers",
+    "home": "Reds",
+    "score": "3 - 0",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Dodgers",
+    "home": "Mets",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Nationals",
+    "home": "Cardinals",
+    "score": "6 - 9",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "White Sox",
+    "home": "Braves",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "date": "2023-07-15",
+    "road": "Yankees",
+    "home": "Rockies",
+    "score": "6 - 3",
+    "status": "Final"
+  }
+]
