@@ -4,4 +4,4 @@
 
 ## Application
 
-- [NPB2023](https://github.com/KurimaReiji/mlb2023)
+- [MLB2023](https://github.com/KurimaReiji/mlb2023)
