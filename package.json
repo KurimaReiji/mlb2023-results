@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/KurimaReiji/mlb2023-results/issues"
   },
-  "homepage": "https://github.com/KurimaReiji/mlb2023-results#readme",
-  "dependencies": {
-    "puppeteer": "^20.2.0"
-  }
+  "homepage": "https://github.com/KurimaReiji/mlb2023-results#readme"
 }

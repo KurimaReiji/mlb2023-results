@@ -17,7 +17,7 @@ jobs:
         node-version: 16
     - name: Create now.json
       run: echo "[\"`TZ=Pacific/Honolulu date -Isecond`\"]" > docs/now.json
-    - name: install puppeteer
+    - name: install packages
       run: npm ci
     - name: get results of today
       run: node ../today.js && jq -s '.|add' mlb-2023-*json > ../docs/mlb2023-results.json
