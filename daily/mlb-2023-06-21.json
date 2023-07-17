@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717677,
     "date": "2023-06-21",
     "road": "Orioles",
     "home": "Rays",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717676,
     "date": "2023-06-21",
     "road": "Blue Jays",
     "home": "Marlins",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717669,
     "date": "2023-06-21",
     "road": "Rockies",
     "home": "Reds",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717671,
     "date": "2023-06-21",
     "road": "Cubs",
     "home": "Pirates",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717668,
     "date": "2023-06-21",
     "road": "Royals",
     "home": "Tigers",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717670,
     "date": "2023-06-21",
     "road": "Mets",
     "home": "Astros",
@@ -42,13 +48,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717672,
     "date": "2023-06-21",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Brewers",
     "score": "5 - 1",
     "status": "Final"
   },
   {
+    "gamePk": 717673,
     "date": "2023-06-21",
     "road": "Cardinals",
     "home": "Nationals",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717666,
     "date": "2023-06-21",
     "road": "Mariners",
     "home": "Yankees",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717663,
     "date": "2023-06-21",
     "road": "Athletics",
     "home": "Guardians",
@@ -70,13 +80,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717665,
     "date": "2023-06-21",
     "road": "Red Sox",
     "home": "Twins",
     "score": "4 - 5",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717667,
     "date": "2023-06-21",
     "road": "Rangers",
     "home": "White Sox",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717662,
     "date": "2023-06-21",
     "road": "Dodgers",
     "home": "Angels",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717674,
     "date": "2023-06-21",
     "road": "Padres",
     "home": "Giants",

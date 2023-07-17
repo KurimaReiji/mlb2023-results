@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717559,
     "date": "2023-06-30",
     "road": "Guardians",
     "home": "Cubs",
@@ -7,13 +8,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717557,
     "date": "2023-06-30",
     "road": "Padres",
     "home": "Reds",
     "score": "5 - 7",
-    "status": "Final/11"
+    "status": "Final"
   },
   {
+    "gamePk": 717563,
     "date": "2023-06-30",
     "road": "Nationals",
     "home": "Phillies",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717561,
     "date": "2023-06-30",
     "road": "Twins",
     "home": "Orioles",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717562,
     "date": "2023-06-30",
     "road": "Brewers",
     "home": "Pirates",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717555,
     "date": "2023-06-30",
     "road": "Red Sox",
     "home": "Blue Jays",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717556,
     "date": "2023-06-30",
     "road": "Giants",
     "home": "Mets",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717558,
     "date": "2023-06-30",
     "road": "Marlins",
     "home": "Braves",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717554,
     "date": "2023-06-30",
     "road": "Astros",
     "home": "Rangers",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717552,
     "date": "2023-06-30",
     "road": "Tigers",
     "home": "Rockies",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717553,
     "date": "2023-06-30",
     "road": "Dodgers",
     "home": "Royals",
@@ -77,13 +88,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717549,
     "date": "2023-06-30",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Angels",
     "score": "6 - 2",
     "status": "Final"
   },
   {
+    "gamePk": 717551,
     "date": "2023-06-30",
     "road": "White Sox",
     "home": "Athletics",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717548,
     "date": "2023-06-30",
     "road": "Rays",
     "home": "Mariners",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718559,
     "date": "2023-04-16",
     "road": "Angels",
     "home": "Red Sox",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718555,
     "date": "2023-04-16",
     "road": "Guardians",
     "home": "Nationals",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718557,
     "date": "2023-04-16",
     "road": "Twins",
     "home": "Yankees",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718556,
     "date": "2023-04-16",
     "road": "Rays",
     "home": "Blue Jays",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718554,
     "date": "2023-04-16",
     "road": "Phillies",
     "home": "Reds",
@@ -35,13 +40,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718550,
     "date": "2023-04-16",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Marlins",
     "score": "5 - 0",
     "status": "Final"
   },
   {
+    "gamePk": 718551,
     "date": "2023-04-16",
     "road": "Braves",
     "home": "Royals",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718553,
     "date": "2023-04-16",
     "road": "Orioles",
     "home": "White Sox",
@@ -56,20 +64,23 @@
     "status": "Final"
   },
   {
+    "gamePk": 718548,
     "date": "2023-04-16",
     "road": "Pirates",
     "home": "Cardinals",
     "score": "4 - 5",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718546,
     "date": "2023-04-16",
     "road": "Mets",
     "home": "Athletics",
     "score": "4 - 3",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718547,
     "date": "2023-04-16",
     "road": "Cubs",
     "home": "Dodgers",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718545,
     "date": "2023-04-16",
     "road": "Rockies",
     "home": "Mariners",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718549,
     "date": "2023-04-16",
     "road": "Brewers",
     "home": "Padres",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718552,
     "date": "2023-04-16",
     "road": "Rangers",
     "home": "Astros",

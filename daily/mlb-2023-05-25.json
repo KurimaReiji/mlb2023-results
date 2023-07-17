@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718030,
     "date": "2023-05-25",
     "road": "Cardinals",
     "home": "Reds",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718032,
     "date": "2023-05-25",
     "road": "Blue Jays",
     "home": "Rays",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718033,
     "date": "2023-05-25",
     "road": "Marlins",
     "home": "Rockies",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718035,
     "date": "2023-05-25",
     "road": "Padres",
     "home": "Nationals",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718031,
     "date": "2023-05-25",
     "road": "White Sox",
     "home": "Tigers",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718029,
     "date": "2023-05-25",
     "road": "Orioles",
     "home": "Yankees",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718026,
     "date": "2023-05-25",
     "road": "Phillies",
     "home": "Braves",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718024,
     "date": "2023-05-25",
     "road": "Mets",
     "home": "Cubs",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718028,
     "date": "2023-05-25",
     "road": "Giants",
     "home": "Brewers",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718025,
     "date": "2023-05-25",
     "road": "Athletics",
     "home": "Mariners",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717489,
     "date": "2023-07-05",
     "road": "Rockies",
     "home": "Astros",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717485,
     "date": "2023-07-05",
     "road": "Athletics",
     "home": "Tigers",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717491,
     "date": "2023-07-05",
     "road": "Phillies",
     "home": "Rays",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717488,
     "date": "2023-07-05",
     "road": "Cardinals",
     "home": "Marlins",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717493,
     "date": "2023-07-05",
     "road": "Reds",
     "home": "Nationals",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717487,
     "date": "2023-07-05",
     "road": "Orioles",
     "home": "Yankees",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717484,
     "date": "2023-07-05",
     "road": "Rangers",
     "home": "Red Sox",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717486,
     "date": "2023-07-05",
     "road": "Braves",
     "home": "Guardians",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717482,
     "date": "2023-07-05",
     "road": "Royals",
     "home": "Twins",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717483,
     "date": "2023-07-05",
     "road": "Cubs",
     "home": "Brewers",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717478,
     "date": "2023-07-05",
     "road": "Angels",
     "home": "Padres",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717490,
     "date": "2023-07-05",
     "road": "Mariners",
     "home": "Giants",
@@ -84,13 +96,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717477,
     "date": "2023-07-05",
     "road": "Mets",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "2 - 1",
     "status": "Final"
   },
   {
+    "gamePk": 717479,
     "date": "2023-07-05",
     "road": "Pirates",
     "home": "Dodgers",

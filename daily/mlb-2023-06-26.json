@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717611,
     "date": "2023-06-26",
     "road": "Reds",
     "home": "Orioles",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717607,
     "date": "2023-06-26",
     "road": "Brewers",
     "home": "Mets",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717609,
     "date": "2023-06-26",
     "road": "Twins",
     "home": "Braves",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717606,
     "date": "2023-06-26",
     "road": "Tigers",
     "home": "Rangers",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717608,
     "date": "2023-06-26",
     "road": "White Sox",
     "home": "Angels",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717602,
     "date": "2023-06-26",
     "road": "Nationals",
     "home": "Mariners",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718693,
     "date": "2023-04-07",
     "road": "Marlins",
     "home": "Mets",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718675,
     "date": "2023-04-07",
     "road": "Rangers",
     "home": "Cubs",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718685,
     "date": "2023-04-07",
     "road": "Reds",
     "home": "Phillies",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718688,
     "date": "2023-04-07",
     "road": "Yankees",
     "home": "Orioles",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718677,
     "date": "2023-04-07",
     "road": "Mariners",
     "home": "Guardians",
@@ -35,13 +40,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718684,
     "date": "2023-04-07",
     "road": "Astros",
     "home": "Twins",
     "score": "2 - 3",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718679,
     "date": "2023-04-07",
     "road": "White Sox",
     "home": "Pirates",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718680,
     "date": "2023-04-07",
     "road": "Royals",
     "home": "Giants",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718678,
     "date": "2023-04-07",
     "road": "Athletics",
     "home": "Rays",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718676,
     "date": "2023-04-07",
     "road": "Padres",
     "home": "Braves",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718674,
     "date": "2023-04-07",
     "road": "Cardinals",
     "home": "Brewers",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718673,
     "date": "2023-04-07",
     "road": "Nationals",
     "home": "Rockies",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718670,
     "date": "2023-04-07",
     "road": "Blue Jays",
     "home": "Angels",
@@ -91,9 +104,10 @@
     "status": "Final"
   },
   {
+    "gamePk": 718671,
     "date": "2023-04-07",
     "road": "Dodgers",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "3 - 6",
     "status": "Final"
   }

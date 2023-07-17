@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718760,
     "date": "2023-04-01",
     "road": "White Sox",
     "home": "Astros",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718759,
     "date": "2023-04-01",
     "road": "Blue Jays",
     "home": "Cardinals",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718758,
     "date": "2023-04-01",
     "road": "Brewers",
     "home": "Cubs",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718752,
     "date": "2023-04-01",
     "road": "Phillies",
     "home": "Rangers",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718753,
     "date": "2023-04-01",
     "road": "Braves",
     "home": "Nationals",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718762,
     "date": "2023-04-01",
     "road": "Giants",
     "home": "Yankees",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718757,
     "date": "2023-04-01",
     "road": "Angels",
     "home": "Athletics",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718761,
     "date": "2023-04-01",
     "road": "Orioles",
     "home": "Red Sox",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718756,
     "date": "2023-04-01",
     "road": "Pirates",
     "home": "Reds",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718754,
     "date": "2023-04-01",
     "road": "Tigers",
     "home": "Rays",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718751,
     "date": "2023-04-01",
     "road": "Twins",
     "home": "Royals",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718755,
     "date": "2023-04-01",
     "road": "Mets",
     "home": "Marlins",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718750,
     "date": "2023-04-01",
     "road": "Rockies",
     "home": "Padres",
@@ -91,13 +104,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718749,
     "date": "2023-04-01",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Dodgers",
     "score": "1 - 10",
     "status": "Final"
   },
   {
+    "gamePk": 718746,
     "date": "2023-04-01",
     "road": "Guardians",
     "home": "Mariners",

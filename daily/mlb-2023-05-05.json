@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718303,
     "date": "2023-05-05",
     "road": "Marlins",
     "home": "Cubs",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718307,
     "date": "2023-05-05",
     "road": "Blue Jays",
     "home": "Pirates",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718305,
     "date": "2023-05-05",
     "road": "White Sox",
     "home": "Reds",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718300,
     "date": "2023-05-05",
     "road": "Yankees",
     "home": "Rays",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718301,
     "date": "2023-05-05",
     "road": "Red Sox",
     "home": "Phillies",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718302,
     "date": "2023-05-05",
     "road": "Rockies",
     "home": "Mets",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718306,
     "date": "2023-05-05",
     "road": "Twins",
     "home": "Guardians",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718298,
     "date": "2023-05-05",
     "road": "Orioles",
     "home": "Braves",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718299,
     "date": "2023-05-05",
     "road": "Athletics",
     "home": "Royals",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718292,
     "date": "2023-05-05",
     "road": "Tigers",
     "home": "Cardinals",
@@ -70,20 +80,23 @@
     "status": "Final"
   },
   {
+    "gamePk": 718294,
     "date": "2023-05-05",
     "road": "Rangers",
     "home": "Angels",
     "score": "4 - 5",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718296,
     "date": "2023-05-05",
     "road": "Nationals",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "1 - 3",
     "status": "Final"
   },
   {
+    "gamePk": 718295,
     "date": "2023-05-05",
     "road": "Dodgers",
     "home": "Padres",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718297,
     "date": "2023-05-05",
     "road": "Astros",
     "home": "Mariners",
@@ -98,6 +112,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718293,
     "date": "2023-05-05",
     "road": "Brewers",
     "home": "Giants",

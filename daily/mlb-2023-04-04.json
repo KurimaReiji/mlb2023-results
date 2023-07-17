@@ -1,12 +1,14 @@
 [
   {
+    "gamePk": 718717,
     "date": "2023-04-04",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Padres",
     "score": "8 - 6",
     "status": "Final"
   },
   {
+    "gamePk": 718716,
     "date": "2023-04-04",
     "road": "Cubs",
     "home": "Reds",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718714,
     "date": "2023-04-04",
     "road": "Twins",
     "home": "Marlins",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718715,
     "date": "2023-04-04",
     "road": "Rays",
     "home": "Nationals",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718710,
     "date": "2023-04-04",
     "road": "Phillies",
     "home": "Yankees",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718713,
     "date": "2023-04-04",
     "road": "Pirates",
     "home": "Red Sox",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718708,
     "date": "2023-04-04",
     "road": "Blue Jays",
     "home": "Royals",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718712,
     "date": "2023-04-04",
     "road": "Mets",
     "home": "Brewers",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718711,
     "date": "2023-04-04",
     "road": "Braves",
     "home": "Cardinals",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718709,
     "date": "2023-04-04",
     "road": "Orioles",
     "home": "Rangers",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718705,
     "date": "2023-04-04",
     "road": "Tigers",
     "home": "Astros",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718707,
     "date": "2023-04-04",
     "road": "Guardians",
     "home": "Athletics",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718706,
     "date": "2023-04-04",
     "road": "Angels",
     "home": "Mariners",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718703,
     "date": "2023-04-04",
     "road": "Rockies",
     "home": "Dodgers",

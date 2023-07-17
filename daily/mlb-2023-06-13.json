@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717787,
     "date": "2023-06-13",
     "road": "Blue Jays",
     "home": "Orioles",
@@ -7,13 +8,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717788,
     "date": "2023-06-13",
     "road": "Rockies",
     "home": "Red Sox",
     "score": "7 - 6",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717779,
     "date": "2023-06-13",
     "road": "Yankees",
     "home": "Mets",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717783,
     "date": "2023-06-13",
     "road": "Brewers",
     "home": "Twins",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717781,
     "date": "2023-06-13",
     "road": "Giants",
     "home": "Cardinals",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717782,
     "date": "2023-06-13",
     "road": "Pirates",
     "home": "Cubs",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717780,
     "date": "2023-06-13",
     "road": "Angels",
     "home": "Rangers",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717777,
     "date": "2023-06-13",
     "road": "Reds",
     "home": "Royals",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717778,
     "date": "2023-06-13",
     "road": "Nationals",
     "home": "Astros",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717772,
     "date": "2023-06-13",
     "road": "Guardians",
     "home": "Padres",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717774,
     "date": "2023-06-13",
     "road": "Rays",
     "home": "Athletics",
@@ -77,13 +88,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717775,
     "date": "2023-06-13",
     "road": "Phillies",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "15 - 3",
     "status": "Final"
   },
   {
+    "gamePk": 717773,
     "date": "2023-06-13",
     "road": "Marlins",
     "home": "Mariners",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717776,
     "date": "2023-06-13",
     "road": "White Sox",
     "home": "Dodgers",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717753,
     "date": "2023-06-15",
     "road": "Blue Jays",
     "home": "Orioles",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717756,
     "date": "2023-06-15",
     "road": "Rays",
     "home": "Athletics",
@@ -14,13 +16,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717755,
     "date": "2023-06-15",
     "road": "Phillies",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "5 - 4",
     "status": "Final"
   },
   {
+    "gamePk": 717752,
     "date": "2023-06-15",
     "road": "Tigers",
     "home": "Twins",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717754,
     "date": "2023-06-15",
     "road": "Rockies",
     "home": "Braves",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717747,
     "date": "2023-06-15",
     "road": "Pirates",
     "home": "Cubs",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717751,
     "date": "2023-06-15",
     "road": "Angels",
     "home": "Rangers",
@@ -49,13 +56,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717746,
     "date": "2023-06-15",
     "road": "Nationals",
     "home": "Astros",
     "score": "4 - 1",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717750,
     "date": "2023-06-15",
     "road": "Guardians",
     "home": "Padres",
@@ -63,10 +72,11 @@
     "status": "Final"
   },
   {
+    "gamePk": 717748,
     "date": "2023-06-15",
     "road": "White Sox",
     "home": "Dodgers",
     "score": "4 - 5",
-    "status": "Final/11"
+    "status": "Final"
   }
 ]

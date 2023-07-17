@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718771,
     "date": "2023-03-31",
     "road": "Mets",
     "home": "Marlins",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718764,
     "date": "2023-03-31",
     "road": "White Sox",
     "home": "Astros",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718766,
     "date": "2023-03-31",
     "road": "Rockies",
     "home": "Padres",
@@ -21,13 +24,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718765,
     "date": "2023-03-31",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Dodgers",
     "score": "2 - 1",
     "status": "Final"
   },
   {
+    "gamePk": 718763,
     "date": "2023-03-31",
     "road": "Guardians",
     "home": "Mariners",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718128,
     "date": "2023-05-18",
     "road": "Angels",
     "home": "Orioles",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718122,
     "date": "2023-05-18",
     "road": "Rays",
     "home": "Mets",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718130,
     "date": "2023-05-18",
     "road": "Nationals",
     "home": "Marlins",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718125,
     "date": "2023-05-18",
     "road": "Guardians",
     "home": "White Sox",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718121,
     "date": "2023-05-18",
     "road": "Yankees",
     "home": "Blue Jays",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718124,
     "date": "2023-05-18",
     "road": "Dodgers",
     "home": "Cardinals",

@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717728,
     "date": "2023-06-17",
     "road": "Tigers",
     "home": "Twins",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717729,
     "date": "2023-06-17",
     "road": "Orioles",
     "home": "Cubs",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717723,
     "date": "2023-06-17",
     "road": "Blue Jays",
     "home": "Rangers",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717734,
     "date": "2023-06-17",
     "road": "Marlins",
     "home": "Nationals",
@@ -28,13 +32,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717725,
     "date": "2023-06-17",
     "road": "Phillies",
     "home": "Athletics",
     "score": "3 - 2",
-    "status": "Final/12"
+    "status": "Final"
   },
   {
+    "gamePk": 717727,
     "date": "2023-06-17",
     "road": "Reds",
     "home": "Astros",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717726,
     "date": "2023-06-17",
     "road": "Angels",
     "home": "Royals",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717718,
     "date": "2023-06-17",
     "road": "Cardinals",
     "home": "Mets",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717724,
     "date": "2023-06-17",
     "road": "Rockies",
     "home": "Braves",
@@ -63,13 +72,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717722,
     "date": "2023-06-17",
     "road": "White Sox",
     "home": "Mariners",
     "score": "4 - 3",
-    "status": "Final/11"
+    "status": "Final"
   },
   {
+    "gamePk": 717720,
     "date": "2023-06-17",
     "road": "Pirates",
     "home": "Brewers",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717717,
     "date": "2023-06-17",
     "road": "Rays",
     "home": "Padres",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717721,
     "date": "2023-06-17",
     "road": "Giants",
     "home": "Dodgers",
@@ -91,9 +104,10 @@
     "status": "Final"
   },
   {
+    "gamePk": 717719,
     "date": "2023-06-17",
     "road": "Guardians",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "3 - 6",
     "status": "Final"
   }

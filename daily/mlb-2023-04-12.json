@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718608,
     "date": "2023-04-12",
     "road": "Astros",
     "home": "Pirates",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718610,
     "date": "2023-04-12",
     "road": "Padres",
     "home": "Mets",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718605,
     "date": "2023-04-12",
     "road": "White Sox",
     "home": "Twins",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718604,
     "date": "2023-04-12",
     "road": "Yankees",
     "home": "Guardians",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718606,
     "date": "2023-04-12",
     "road": "Mariners",
     "home": "Cubs",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718607,
     "date": "2023-04-12",
     "road": "Cardinals",
     "home": "Rockies",
@@ -42,20 +48,23 @@
     "status": "Final"
   },
   {
+    "gamePk": 718598,
     "date": "2023-04-12",
     "road": "Brewers",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "3 - 7",
     "status": "Final"
   },
   {
+    "gamePk": 718609,
     "date": "2023-04-12",
     "road": "Marlins",
     "home": "Phillies",
     "score": "3 - 2",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718602,
     "date": "2023-04-12",
     "road": "Nationals",
     "home": "Angels",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718599,
     "date": "2023-04-12",
     "road": "Athletics",
     "home": "Orioles",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718600,
     "date": "2023-04-12",
     "road": "Red Sox",
     "home": "Rays",
@@ -77,13 +88,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718603,
     "date": "2023-04-12",
     "road": "Tigers",
     "home": "Blue Jays",
     "score": "3 - 4",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718601,
     "date": "2023-04-12",
     "road": "Reds",
     "home": "Braves",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718595,
     "date": "2023-04-12",
     "road": "Royals",
     "home": "Rangers",
@@ -98,6 +112,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718612,
     "date": "2023-04-12",
     "road": "Dodgers",
     "home": "Giants",

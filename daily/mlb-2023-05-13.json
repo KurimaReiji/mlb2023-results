@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718197,
     "date": "2023-05-13",
     "road": "Rays",
     "home": "Yankees",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718194,
     "date": "2023-05-13",
     "road": "Mariners",
     "home": "Tigers",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718198,
     "date": "2023-05-13",
     "road": "Reds",
     "home": "Marlins",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718195,
     "date": "2023-05-13",
     "road": "Cubs",
     "home": "Twins",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718192,
     "date": "2023-05-13",
     "road": "Braves",
     "home": "Blue Jays",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718190,
     "date": "2023-05-13",
     "road": "Rangers",
     "home": "Athletics",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718196,
     "date": "2023-05-13",
     "road": "Cardinals",
     "home": "Red Sox",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718191,
     "date": "2023-05-13",
     "road": "Angels",
     "home": "Guardians",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718193,
     "date": "2023-05-13",
     "road": "Pirates",
     "home": "Orioles",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718183,
     "date": "2023-05-13",
     "road": "Royals",
     "home": "Brewers",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718185,
     "date": "2023-05-13",
     "road": "Padres",
     "home": "Dodgers",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718189,
     "date": "2023-05-13",
     "road": "Astros",
     "home": "White Sox",
@@ -84,13 +96,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718184,
     "date": "2023-05-13",
     "road": "Giants",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "2 - 7",
     "status": "Final"
   },
   {
+    "gamePk": 718188,
     "date": "2023-05-13",
     "road": "Phillies",
     "home": "Rockies",

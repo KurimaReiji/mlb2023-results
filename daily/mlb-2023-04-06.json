@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718690,
     "date": "2023-04-06",
     "road": "Red Sox",
     "home": "Tigers",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718686,
     "date": "2023-04-06",
     "road": "Blue Jays",
     "home": "Royals",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718687,
     "date": "2023-04-06",
     "road": "Giants",
     "home": "White Sox",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718682,
     "date": "2023-04-06",
     "road": "Nationals",
     "home": "Rockies",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718681,
     "date": "2023-04-06",
     "road": "Padres",
     "home": "Braves",
@@ -35,9 +40,10 @@
     "status": "Final"
   },
   {
+    "gamePk": 718683,
     "date": "2023-04-06",
     "road": "Dodgers",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "5 - 2",
     "status": "Final"
   }

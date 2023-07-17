@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718364,
     "date": "2023-04-30",
     "road": "Cubs",
     "home": "Marlins",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718370,
     "date": "2023-04-30",
     "road": "Guardians",
     "home": "Red Sox",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718367,
     "date": "2023-04-30",
     "road": "Pirates",
     "home": "Nationals",
@@ -21,13 +24,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718363,
     "date": "2023-04-30",
     "road": "Mariners",
     "home": "Blue Jays",
     "score": "10 - 8",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718360,
     "date": "2023-04-30",
     "road": "Orioles",
     "home": "Tigers",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718362,
     "date": "2023-04-30",
     "road": "Royals",
     "home": "Twins",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718355,
     "date": "2023-04-30",
     "road": "Rays",
     "home": "White Sox",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718365,
     "date": "2023-04-30",
     "road": "Angels",
     "home": "Brewers",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718356,
     "date": "2023-04-30",
     "road": "Yankees",
     "home": "Rangers",
@@ -63,13 +72,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718358,
     "date": "2023-04-30",
-    "road": "D-backs",
+    "road": "Diamondbacks",
     "home": "Rockies",
     "score": "4 - 12",
     "status": "Final"
   },
   {
+    "gamePk": 718368,
     "date": "2023-04-30",
     "road": "Giants",
     "home": "Padres",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718357,
     "date": "2023-04-30",
     "road": "Reds",
     "home": "Athletics",
@@ -84,6 +96,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718359,
     "date": "2023-04-30",
     "road": "Cardinals",
     "home": "Dodgers",
@@ -91,6 +104,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718354,
     "date": "2023-04-30",
     "road": "Phillies",
     "home": "Astros",

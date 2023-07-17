@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 718704,
     "date": "2023-04-05",
     "road": "Rays",
     "home": "Nationals",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718699,
     "date": "2023-04-05",
     "road": "Phillies",
     "home": "Yankees",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718701,
     "date": "2023-04-05",
     "road": "Twins",
     "home": "Marlins",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718697,
     "date": "2023-04-05",
     "road": "Braves",
     "home": "Cardinals",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718702,
     "date": "2023-04-05",
     "road": "Pirates",
     "home": "Red Sox",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718698,
     "date": "2023-04-05",
     "road": "Mets",
     "home": "Brewers",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718694,
     "date": "2023-04-05",
     "road": "Orioles",
     "home": "Rangers",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718696,
     "date": "2023-04-05",
     "road": "Tigers",
     "home": "Astros",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718695,
     "date": "2023-04-05",
     "road": "Giants",
     "home": "White Sox",
@@ -63,13 +72,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 718689,
     "date": "2023-04-05",
     "road": "Guardians",
     "home": "Athletics",
     "score": "6 - 4",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 718691,
     "date": "2023-04-05",
     "road": "Angels",
     "home": "Mariners",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 718692,
     "date": "2023-04-05",
     "road": "Blue Jays",
     "home": "Royals",

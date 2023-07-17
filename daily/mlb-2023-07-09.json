@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717432,
     "date": "2023-07-09",
     "road": "Rangers",
     "home": "Nationals",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717435,
     "date": "2023-07-09",
     "road": "Athletics",
     "home": "Red Sox",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717433,
     "date": "2023-07-09",
     "road": "Cubs",
     "home": "Yankees",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717434,
     "date": "2023-07-09",
     "road": "Royals",
     "home": "Guardians",
@@ -28,13 +32,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717431,
     "date": "2023-07-09",
     "road": "Blue Jays",
     "home": "Tigers",
     "score": "4 - 3",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717429,
     "date": "2023-07-09",
     "road": "Braves",
     "home": "Rays",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717426,
     "date": "2023-07-09",
     "road": "Phillies",
     "home": "Marlins",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717430,
     "date": "2023-07-09",
     "road": "Mariners",
     "home": "Astros",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717428,
     "date": "2023-07-09",
     "road": "Orioles",
     "home": "Twins",
@@ -63,13 +72,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717424,
     "date": "2023-07-09",
     "road": "Cardinals",
     "home": "White Sox",
     "score": "4 - 3",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717427,
     "date": "2023-07-09",
     "road": "Reds",
     "home": "Brewers",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717422,
     "date": "2023-07-09",
     "road": "Rockies",
     "home": "Giants",
@@ -84,13 +96,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717425,
     "date": "2023-07-09",
     "road": "Pirates",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "4 - 2",
     "status": "Final"
   },
   {
+    "gamePk": 717423,
     "date": "2023-07-09",
     "road": "Mets",
     "home": "Padres",

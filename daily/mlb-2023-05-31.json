@@ -1,5 +1,6 @@
 [
   {
+    "gamePk": 717951,
     "date": "2023-05-31",
     "road": "Rangers",
     "home": "Tigers",
@@ -7,6 +8,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717943,
     "date": "2023-05-31",
     "road": "Angels",
     "home": "White Sox",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717950,
     "date": "2023-05-31",
     "road": "Rays",
     "home": "Cubs",
@@ -21,6 +24,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717946,
     "date": "2023-05-31",
     "road": "Guardians",
     "home": "Orioles",
@@ -28,6 +32,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717949,
     "date": "2023-05-31",
     "road": "Braves",
     "home": "Athletics",
@@ -35,6 +40,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717953,
     "date": "2023-05-31",
     "road": "Pirates",
     "home": "Giants",
@@ -42,6 +48,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717954,
     "date": "2023-05-31",
     "road": "Nationals",
     "home": "Dodgers",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717945,
     "date": "2023-05-31",
     "road": "Padres",
     "home": "Marlins",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717947,
     "date": "2023-05-31",
     "road": "Brewers",
     "home": "Blue Jays",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717948,
     "date": "2023-05-31",
     "road": "Reds",
     "home": "Red Sox",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717944,
     "date": "2023-05-31",
     "road": "Phillies",
     "home": "Mets",
@@ -77,6 +88,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717938,
     "date": "2023-05-31",
     "road": "Twins",
     "home": "Astros",
@@ -84,17 +96,19 @@
     "status": "Final"
   },
   {
+    "gamePk": 717940,
     "date": "2023-05-31",
     "road": "Rockies",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "0 - 6",
     "status": "Final"
   },
   {
+    "gamePk": 717939,
     "date": "2023-05-31",
     "road": "Yankees",
     "home": "Mariners",
     "score": "0 - 1",
-    "status": "Final/10"
+    "status": "Final"
   }
 ]

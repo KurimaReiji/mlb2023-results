@@ -1,12 +1,14 @@
 [
   {
+    "gamePk": 717481,
     "date": "2023-07-06",
     "road": "Reds",
     "home": "Nationals",
     "score": "5 - 4",
-    "status": "Final/10"
+    "status": "Final"
   },
   {
+    "gamePk": 717476,
     "date": "2023-07-06",
     "road": "Athletics",
     "home": "Tigers",
@@ -14,6 +16,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717474,
     "date": "2023-07-06",
     "road": "Cubs",
     "home": "Brewers",
@@ -21,13 +24,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717468,
     "date": "2023-07-06",
     "road": "Blue Jays",
     "home": "White Sox",
     "score": "6 - 2",
-    "status": "Final/11"
+    "status": "Final"
   },
   {
+    "gamePk": 717480,
     "date": "2023-07-06",
     "road": "Blue Jays",
     "home": "White Sox",
@@ -35,13 +40,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717472,
     "date": "2023-07-06",
     "road": "Phillies",
     "home": "Rays",
     "score": "3 - 1",
-    "status": "Final/11"
+    "status": "Final"
   },
   {
+    "gamePk": 717473,
     "date": "2023-07-06",
     "road": "Cardinals",
     "home": "Marlins",
@@ -49,6 +56,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717475,
     "date": "2023-07-06",
     "road": "Orioles",
     "home": "Yankees",
@@ -56,6 +64,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717469,
     "date": "2023-07-06",
     "road": "Royals",
     "home": "Guardians",
@@ -63,6 +72,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717471,
     "date": "2023-07-06",
     "road": "Rangers",
     "home": "Red Sox",
@@ -70,6 +80,7 @@
     "status": "Final"
   },
   {
+    "gamePk": 717467,
     "date": "2023-07-06",
     "road": "Mariners",
     "home": "Astros",
@@ -77,13 +88,15 @@
     "status": "Final"
   },
   {
+    "gamePk": 717470,
     "date": "2023-07-06",
     "road": "Mets",
-    "home": "D-backs",
+    "home": "Diamondbacks",
     "score": "9 - 0",
     "status": "Final"
   },
   {
+    "gamePk": 717462,
     "date": "2023-07-06",
     "road": "Pirates",
     "home": "Dodgers",
