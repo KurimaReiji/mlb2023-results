@@ -14,7 +14,7 @@ fetch("https://statsapi.mlb.com/api/v1/schedule?sportId=1")
       .filter((g) => !g.resumeGameDate)
       .map((g) => ({
         gamePk: g.gamePk,
-        date,
+        date: g.officialDate,
         road: Teams.nickname(g.teams.away.team.name),
         home: Teams.nickname(g.teams.home.team.name),
         score: [g.teams.away.score, g.teams.home.score].join(" - "),
