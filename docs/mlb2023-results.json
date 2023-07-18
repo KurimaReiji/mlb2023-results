@@ -11270,5 +11270,29 @@
     "home": "Royals",
     "score": "3 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717369,
+    "date": "2023-07-17",
+    "road": "Yankees",
+    "home": "Angels",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717366,
+    "date": "2023-07-17",
+    "road": "Red Sox",
+    "home": "Athletics",
+    "score": "7 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717365,
+    "date": "2023-07-17",
+    "road": "Twins",
+    "home": "Mariners",
+    "score": "6 - 7",
+    "status": "Final"
   }
 ]
