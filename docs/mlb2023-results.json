@@ -11336,6 +11336,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717360,
+    "date": "2023-07-18",
+    "road": "Giants",
+    "home": "Reds",
+    "score": "11 - 10",
+    "status": "Final"
+  },
+  {
     "gamePk": 717359,
     "date": "2023-07-18",
     "road": "White Sox",
@@ -11397,6 +11405,22 @@
     "road": "Yankees",
     "home": "Angels",
     "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717349,
+    "date": "2023-07-18",
+    "road": "Red Sox",
+    "home": "Athletics",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717350,
+    "date": "2023-07-18",
+    "road": "Twins",
+    "home": "Mariners",
+    "score": "10 - 3",
     "status": "Final"
   }
 ]
