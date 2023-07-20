@@ -46,5 +46,69 @@
     "home": "Athletics",
     "score": "5 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717347,
+    "date": "2023-07-19",
+    "road": "Brewers",
+    "home": "Phillies",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717338,
+    "date": "2023-07-19",
+    "road": "Padres",
+    "home": "Blue Jays",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717339,
+    "date": "2023-07-19",
+    "road": "Yankees",
+    "home": "Angels",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717342,
+    "date": "2023-07-19",
+    "road": "Giants",
+    "home": "Reds",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717341,
+    "date": "2023-07-19",
+    "road": "White Sox",
+    "home": "Mets",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717340,
+    "date": "2023-07-19",
+    "road": "Diamondbacks",
+    "home": "Braves",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717336,
+    "date": "2023-07-19",
+    "road": "Nationals",
+    "home": "Cubs",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717333,
+    "date": "2023-07-19",
+    "road": "Tigers",
+    "home": "Royals",
+    "score": "3 - 2",
+    "status": "Final"
   }
 ]
