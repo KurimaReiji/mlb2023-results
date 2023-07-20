@@ -11422,5 +11422,53 @@
     "home": "Mariners",
     "score": "10 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 717348,
+    "date": "2023-07-19",
+    "road": "Guardians",
+    "home": "Pirates",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717343,
+    "date": "2023-07-19",
+    "road": "Dodgers",
+    "home": "Orioles",
+    "score": "5 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717346,
+    "date": "2023-07-19",
+    "road": "Rays",
+    "home": "Rangers",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717351,
+    "date": "2023-07-19",
+    "road": "Marlins",
+    "home": "Cardinals",
+    "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717345,
+    "date": "2023-07-19",
+    "road": "Astros",
+    "home": "Rockies",
+    "score": "4 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717344,
+    "date": "2023-07-19",
+    "road": "Red Sox",
+    "home": "Athletics",
+    "score": "5 - 6",
+    "status": "Final"
   }
 ]
