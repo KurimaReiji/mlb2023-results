@@ -110,5 +110,13 @@
     "home": "Royals",
     "score": "3 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717335,
+    "date": "2023-07-19",
+    "road": "Twins",
+    "home": "Mariners",
+    "score": "6 - 3",
+    "status": "Final"
   }
 ]
