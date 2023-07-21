@@ -11598,5 +11598,21 @@
     "home": "Mariners",
     "score": "0 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 717328,
+    "date": "2023-07-20",
+    "road": "Orioles",
+    "home": "Rays",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717322,
+    "date": "2023-07-20",
+    "road": "Cardinals",
+    "home": "Cubs",
+    "score": "7 - 2",
+    "status": "Final"
   }
 ]
