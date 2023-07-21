@@ -11614,5 +11614,13 @@
     "home": "Cubs",
     "score": "7 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717323,
+    "date": "2023-07-20",
+    "road": "Astros",
+    "home": "Athletics",
+    "score": "3 - 1",
+    "status": "Final"
   }
 ]
