@@ -11846,5 +11846,13 @@
     "home": "Brewers",
     "score": "3 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 717297,
+    "date": "2023-07-22",
+    "road": "Pirates",
+    "home": "Angels",
+    "score": "3 - 0",
+    "status": "Final"
   }
 ]
