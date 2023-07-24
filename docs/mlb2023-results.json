@@ -11974,5 +11974,13 @@
     "home": "Mariners",
     "score": "4 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 717298,
+    "date": "2023-07-23",
+    "road": "Mets",
+    "home": "Red Sox",
+    "score": "1 - 6",
+    "status": "Final"
   }
 ]
