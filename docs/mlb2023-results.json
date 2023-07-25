@@ -11982,5 +11982,13 @@
     "home": "Red Sox",
     "score": "1 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 718558,
+    "date": "2023-07-24",
+    "road": "Giants",
+    "home": "Tigers",
+    "score": "1 - 5",
+    "status": "Final"
   }
 ]
