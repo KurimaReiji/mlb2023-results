@@ -11990,5 +11990,45 @@
     "home": "Tigers",
     "score": "1 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 717280,
+    "date": "2023-07-24",
+    "road": "Orioles",
+    "home": "Phillies",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717282,
+    "date": "2023-07-24",
+    "road": "Rockies",
+    "home": "Nationals",
+    "score": "10 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717277,
+    "date": "2023-07-24",
+    "road": "Royals",
+    "home": "Guardians",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717275,
+    "date": "2023-07-24",
+    "road": "Mariners",
+    "home": "Twins",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717273,
+    "date": "2023-07-24",
+    "road": "Reds",
+    "home": "Brewers",
+    "score": "2 - 3",
+    "status": "Final"
   }
 ]
