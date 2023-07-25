@@ -40,11 +40,43 @@
     "status": "Final"
   },
   {
+    "gamePk": 717274,
+    "date": "2023-07-24",
+    "road": "Rangers",
+    "home": "Astros",
+    "score": "9 - 10",
+    "status": "Final"
+  },
+  {
     "gamePk": 717273,
     "date": "2023-07-24",
     "road": "Reds",
     "home": "Brewers",
     "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717276,
+    "date": "2023-07-24",
+    "road": "Pirates",
+    "home": "Padres",
+    "score": "8 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717268,
+    "date": "2023-07-24",
+    "road": "Cardinals",
+    "home": "Diamondbacks",
+    "score": "10 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717271,
+    "date": "2023-07-24",
+    "road": "Blue Jays",
+    "home": "Dodgers",
+    "score": "6 - 3",
     "status": "Final"
   }
 ]
