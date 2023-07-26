@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "gamePk": 717265,
+    "date": "2023-07-25",
+    "road": "Angels",
+    "home": "Tigers",
+    "score": "7 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717267,
+    "date": "2023-07-25",
+    "road": "Orioles",
+    "home": "Phillies",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717270,
+    "date": "2023-07-25",
+    "road": "Marlins",
+    "home": "Rays",
+    "score": "1 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717266,
+    "date": "2023-07-25",
+    "road": "Mets",
+    "home": "Yankees",
+    "score": "9 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717260,
+    "date": "2023-07-25",
+    "road": "Royals",
+    "home": "Guardians",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717264,
+    "date": "2023-07-25",
+    "road": "Mariners",
+    "home": "Twins",
+    "score": "9 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717255,
+    "date": "2023-07-25",
+    "road": "Rangers",
+    "home": "Astros",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717263,
+    "date": "2023-07-25",
+    "road": "Cubs",
+    "home": "White Sox",
+    "score": "7 - 3",
+    "status": "Final"
+  }
+]
