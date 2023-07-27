@@ -12278,5 +12278,21 @@
     "home": "Astros",
     "score": "13 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 717240,
+    "date": "2023-07-26",
+    "road": "Cubs",
+    "home": "White Sox",
+    "score": "10 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717251,
+    "date": "2023-07-26",
+    "road": "Athletics",
+    "home": "Giants",
+    "score": "3 - 8",
+    "status": "Final"
   }
 ]
