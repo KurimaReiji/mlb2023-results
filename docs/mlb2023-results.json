@@ -12254,5 +12254,29 @@
     "home": "Phillies",
     "score": "4 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717248,
+    "date": "2023-07-26",
+    "road": "Mets",
+    "home": "Yankees",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717242,
+    "date": "2023-07-26",
+    "road": "Braves",
+    "home": "Red Sox",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717239,
+    "date": "2023-07-26",
+    "road": "Rangers",
+    "home": "Astros",
+    "score": "13 - 5",
+    "status": "Final"
   }
 ]
