@@ -12310,5 +12310,21 @@
     "home": "Tigers",
     "score": "11 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 717238,
+    "date": "2023-07-27",
+    "road": "Cubs",
+    "home": "Cardinals",
+    "score": "10 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717233,
+    "date": "2023-07-27",
+    "road": "Guardians",
+    "home": "White Sox",
+    "score": "6 - 3",
+    "status": "Final"
   }
 ]
