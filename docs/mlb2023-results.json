@@ -12454,5 +12454,21 @@
     "home": "Giants",
     "score": "3 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717222,
+    "date": "2023-07-29",
+    "road": "Angels",
+    "home": "Blue Jays",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717218,
+    "date": "2023-07-29",
+    "road": "Tigers",
+    "home": "Marlins",
+    "score": "5 - 0",
+    "status": "Final"
   }
 ]
