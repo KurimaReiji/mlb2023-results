@@ -12662,5 +12662,13 @@
     "home": "Dodgers",
     "score": "9 - 0",
     "status": "Final"
+  },
+  {
+    "gamePk": 717193,
+    "date": "2023-07-30",
+    "road": "Mariners",
+    "home": "Diamondbacks",
+    "score": "4 - 0",
+    "status": "Final"
   }
 ]
