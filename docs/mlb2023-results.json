@@ -12654,5 +12654,13 @@
     "home": "Rockies",
     "score": "0 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717194,
+    "date": "2023-07-30",
+    "road": "Reds",
+    "home": "Dodgers",
+    "score": "9 - 0",
+    "status": "Final"
   }
 ]
