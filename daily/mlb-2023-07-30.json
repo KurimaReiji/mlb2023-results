@@ -80,6 +80,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717197,
+    "date": "2023-07-30",
+    "road": "Red Sox",
+    "home": "Giants",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
     "gamePk": 717194,
     "date": "2023-07-30",
     "road": "Reds",
@@ -93,6 +101,14 @@
     "road": "Mariners",
     "home": "Diamondbacks",
     "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717191,
+    "date": "2023-07-30",
+    "road": "Rangers",
+    "home": "Padres",
+    "score": "3 - 5",
     "status": "Final"
   }
 ]
