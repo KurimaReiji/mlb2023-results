@@ -38,5 +38,21 @@
     "home": "Braves",
     "score": "4 - 1",
     "status": "Final"
+  },
+  {
+    "gamePk": 717188,
+    "date": "2023-07-31",
+    "road": "Reds",
+    "home": "Cubs",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717184,
+    "date": "2023-07-31",
+    "road": "Guardians",
+    "home": "Astros",
+    "score": "3 - 7",
+    "status": "Final"
   }
 ]
