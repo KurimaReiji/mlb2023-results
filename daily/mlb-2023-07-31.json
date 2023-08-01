@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "gamePk": 717189,
+    "date": "2023-07-31",
+    "road": "Phillies",
+    "home": "Marlins",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717185,
+    "date": "2023-07-31",
+    "road": "Rays",
+    "home": "Yankees",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717192,
+    "date": "2023-07-31",
+    "road": "Brewers",
+    "home": "Nationals",
+    "score": "3 - 5",
+    "status": "Final"
+  }
+]
