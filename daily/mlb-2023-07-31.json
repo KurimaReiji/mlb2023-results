@@ -54,5 +54,21 @@
     "home": "Astros",
     "score": "3 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 717181,
+    "date": "2023-07-31",
+    "road": "Red Sox",
+    "home": "Mariners",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717190,
+    "date": "2023-07-31",
+    "road": "Diamondbacks",
+    "home": "Giants",
+    "score": "4 - 3",
+    "status": "Final"
   }
 ]
