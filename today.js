@@ -20,7 +20,7 @@ fetch("https://statsapi.mlb.com/api/v1/schedule?sportId=1")
         score: [g.teams.away.score, g.teams.home.score].join(" - "),
         status: g.status.detailedState,
       }))
-      .filter(({ status }) => ["Final", "Completed Early"].includes(status))
+      .filter(({ status }) => ["Final", "Completed Early", "Game Over"].includes(status))
       ;
 
     const outfile = `./mlb-${date}.json`;
