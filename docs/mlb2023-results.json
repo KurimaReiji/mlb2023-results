@@ -12774,5 +12774,21 @@
     "home": "Giants",
     "score": "4 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 717182,
+    "date": "2023-08-01",
+    "road": "Phillies",
+    "home": "Marlins",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717178,
+    "date": "2023-08-01",
+    "road": "Tigers",
+    "home": "Pirates",
+    "score": "1 - 4",
+    "status": "Final"
   }
 ]
