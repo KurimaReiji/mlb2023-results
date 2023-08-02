@@ -12829,7 +12829,15 @@
     "road": "Twins",
     "home": "Cardinals",
     "score": "3 - 2",
-    "status": "Game Over"
+    "status": "Final"
+  },
+  {
+    "gamePk": 717173,
+    "date": "2023-08-01",
+    "road": "Reds",
+    "home": "Cubs",
+    "score": "9 - 20",
+    "status": "Final"
   },
   {
     "gamePk": 717168,
@@ -12845,6 +12853,6 @@
     "road": "Guardians",
     "home": "Astros",
     "score": "0 - 2",
-    "status": "Game Over"
+    "status": "Final"
   }
 ]
