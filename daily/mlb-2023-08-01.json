@@ -14,5 +14,37 @@
     "home": "Pirates",
     "score": "1 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 717175,
+    "date": "2023-08-01",
+    "road": "Rays",
+    "home": "Yankees",
+    "score": "5 - 2",
+    "status": "Game Over"
+  },
+  {
+    "gamePk": 717183,
+    "date": "2023-08-01",
+    "road": "Brewers",
+    "home": "Nationals",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717177,
+    "date": "2023-08-01",
+    "road": "Orioles",
+    "home": "Blue Jays",
+    "score": "13 - 3",
+    "status": "Game Over"
+  },
+  {
+    "gamePk": 717176,
+    "date": "2023-08-01",
+    "road": "Angels",
+    "home": "Braves",
+    "score": "1 - 5",
+    "status": "Game Over"
   }
 ]
