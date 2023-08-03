@@ -12917,6 +12917,30 @@
     "road": "Brewers",
     "home": "Nationals",
     "score": "2 - 3",
-    "status": "Game Over"
+    "status": "Final"
+  },
+  {
+    "gamePk": 717163,
+    "date": "2023-08-02",
+    "road": "Guardians",
+    "home": "Astros",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717158,
+    "date": "2023-08-02",
+    "road": "Padres",
+    "home": "Rockies",
+    "score": "11 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717161,
+    "date": "2023-08-02",
+    "road": "Red Sox",
+    "home": "Mariners",
+    "score": "3 - 6",
+    "status": "Final"
   }
 ]
