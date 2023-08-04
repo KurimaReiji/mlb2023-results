@@ -70,5 +70,13 @@
     "home": "Cubs",
     "score": "3 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 717144,
+    "date": "2023-08-03",
+    "road": "Mariners",
+    "home": "Angels",
+    "score": "5 - 3",
+    "status": "Final"
   }
 ]
