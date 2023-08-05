@@ -13102,5 +13102,13 @@
     "home": "Dodgers",
     "score": "2 - 8",
     "status": "Final"
+  },
+  {
+    "gamePk": 717141,
+    "date": "2023-08-04",
+    "road": "Braves",
+    "home": "Cubs",
+    "score": "8 - 0",
+    "status": "Final"
   }
 ]
