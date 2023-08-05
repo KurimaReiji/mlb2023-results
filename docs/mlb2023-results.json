@@ -13110,5 +13110,29 @@
     "home": "Cubs",
     "score": "8 - 0",
     "status": "Final"
+  },
+  {
+    "gamePk": 717139,
+    "date": "2023-08-04",
+    "road": "Nationals",
+    "home": "Reds",
+    "score": "6 - 3",
+    "status": "Game Over"
+  },
+  {
+    "gamePk": 717135,
+    "date": "2023-08-04",
+    "road": "Rays",
+    "home": "Tigers",
+    "score": "8 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717132,
+    "date": "2023-08-04",
+    "road": "White Sox",
+    "home": "Guardians",
+    "score": "2 - 4",
+    "status": "Final"
   }
 ]
