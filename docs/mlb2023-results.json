@@ -13117,7 +13117,7 @@
     "road": "Nationals",
     "home": "Reds",
     "score": "6 - 3",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 717135,
@@ -13125,6 +13125,38 @@
     "road": "Rays",
     "home": "Tigers",
     "score": "8 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717134,
+    "date": "2023-08-04",
+    "road": "Mets",
+    "home": "Orioles",
+    "score": "3 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717140,
+    "date": "2023-08-04",
+    "road": "Royals",
+    "home": "Phillies",
+    "score": "7 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717138,
+    "date": "2023-08-04",
+    "road": "Astros",
+    "home": "Yankees",
+    "score": "7 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717136,
+    "date": "2023-08-04",
+    "road": "Blue Jays",
+    "home": "Red Sox",
+    "score": "7 - 3",
     "status": "Final"
   },
   {
