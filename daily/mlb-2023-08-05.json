@@ -102,5 +102,21 @@
     "home": "Cardinals",
     "score": "2 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717112,
+    "date": "2023-08-05",
+    "road": "Dodgers",
+    "home": "Padres",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717109,
+    "date": "2023-08-05",
+    "road": "Mariners",
+    "home": "Angels",
+    "score": "3 - 2",
+    "status": "Game Over"
   }
 ]
