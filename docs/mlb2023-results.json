@@ -13262,5 +13262,13 @@
     "home": "Red Sox",
     "score": "5 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 717123,
+    "date": "2023-08-05",
+    "road": "Royals",
+    "home": "Phillies",
+    "score": "6 - 9",
+    "status": "Final"
   }
 ]
