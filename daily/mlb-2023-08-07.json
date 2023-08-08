@@ -40,6 +40,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717092,
+    "date": "2023-08-07",
+    "road": "Cubs",
+    "home": "Mets",
+    "score": "2 - 11",
+    "status": "Final"
+  },
+  {
     "gamePk": 717087,
     "date": "2023-08-07",
     "road": "Blue Jays",
@@ -62,5 +70,13 @@
     "home": "Brewers",
     "score": "1 - 12",
     "status": "Final"
+  },
+  {
+    "gamePk": 717081,
+    "date": "2023-08-07",
+    "road": "Rangers",
+    "home": "Athletics",
+    "score": "5 - 3",
+    "status": "Game Over"
   }
 ]
