@@ -24,6 +24,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717095,
+    "date": "2023-08-07",
+    "road": "Braves",
+    "home": "Pirates",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
     "gamePk": 717089,
     "date": "2023-08-07",
     "road": "Royals",
@@ -37,6 +45,22 @@
     "road": "Blue Jays",
     "home": "Guardians",
     "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717088,
+    "date": "2023-08-07",
+    "road": "Yankees",
+    "home": "White Sox",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717086,
+    "date": "2023-08-07",
+    "road": "Rockies",
+    "home": "Brewers",
+    "score": "1 - 12",
     "status": "Final"
   }
 ]
