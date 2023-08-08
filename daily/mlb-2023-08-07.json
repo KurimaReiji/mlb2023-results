@@ -24,11 +24,19 @@
     "status": "Final"
   },
   {
+    "gamePk": 717089,
+    "date": "2023-08-07",
+    "road": "Royals",
+    "home": "Red Sox",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
     "gamePk": 717087,
     "date": "2023-08-07",
     "road": "Blue Jays",
     "home": "Guardians",
     "score": "3 - 1",
-    "status": "Game Over"
+    "status": "Final"
   }
 ]
