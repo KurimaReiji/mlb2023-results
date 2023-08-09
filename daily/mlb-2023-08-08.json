@@ -94,5 +94,29 @@
     "home": "Brewers",
     "score": "7 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 717068,
+    "date": "2023-08-08",
+    "road": "Giants",
+    "home": "Angels",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717072,
+    "date": "2023-08-08",
+    "road": "Padres",
+    "home": "Mariners",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717069,
+    "date": "2023-08-08",
+    "road": "Rangers",
+    "home": "Athletics",
+    "score": "6 - 1",
+    "status": "Final"
   }
 ]
