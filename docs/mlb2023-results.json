@@ -13550,5 +13550,45 @@
     "home": "Phillies",
     "score": "4 - 8",
     "status": "Final"
+  },
+  {
+    "gamePk": 717085,
+    "date": "2023-08-08",
+    "road": "Cardinals",
+    "home": "Rays",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717076,
+    "date": "2023-08-08",
+    "road": "Twins",
+    "home": "Tigers",
+    "score": "0 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717083,
+    "date": "2023-08-08",
+    "road": "Marlins",
+    "home": "Reds",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717080,
+    "date": "2023-08-08",
+    "road": "Cubs",
+    "home": "Mets",
+    "score": "3 - 2",
+    "status": "Game Over"
+  },
+  {
+    "gamePk": 717074,
+    "date": "2023-08-08",
+    "road": "Blue Jays",
+    "home": "Guardians",
+    "score": "0 - 1",
+    "status": "Final"
   }
 ]
