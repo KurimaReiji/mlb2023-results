@@ -13720,10 +13720,34 @@
     "status": "Final"
   },
   {
+    "gamePk": 717067,
+    "date": "2023-08-09",
+    "road": "Astros",
+    "home": "Orioles",
+    "score": "8 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717058,
+    "date": "2023-08-09",
+    "road": "Braves",
+    "home": "Pirates",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
     "gamePk": 717059,
     "date": "2023-08-09",
     "road": "Royals",
     "home": "Red Sox",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717062,
+    "date": "2023-08-09",
+    "road": "Cubs",
+    "home": "Mets",
     "score": "3 - 4",
     "status": "Final"
   },
