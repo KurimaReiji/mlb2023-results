@@ -13790,5 +13790,37 @@
     "home": "Mariners",
     "score": "1 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717053,
+    "date": "2023-08-10",
+    "road": "Astros",
+    "home": "Orioles",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717056,
+    "date": "2023-08-10",
+    "road": "Braves",
+    "home": "Pirates",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717052,
+    "date": "2023-08-10",
+    "road": "Blue Jays",
+    "home": "Guardians",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717050,
+    "date": "2023-08-10",
+    "road": "Twins",
+    "home": "Tigers",
+    "score": "0 - 3",
+    "status": "Final"
   }
 ]
