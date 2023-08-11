@@ -13830,5 +13830,21 @@
     "home": "Rays",
     "score": "5 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 717049,
+    "date": "2023-08-10",
+    "road": "Nationals",
+    "home": "Phillies",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717051,
+    "date": "2023-08-10",
+    "road": "Royals",
+    "home": "Red Sox",
+    "score": "0 - 2",
+    "status": "Final"
   }
 ]
