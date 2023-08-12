@@ -13933,6 +13933,14 @@
     "road": "Cardinals",
     "home": "Royals",
     "score": "8 - 12",
-    "status": "Game Over"
+    "status": "Final"
+  },
+  {
+    "gamePk": 717036,
+    "date": "2023-08-11",
+    "road": "Brewers",
+    "home": "White Sox",
+    "score": "7 - 6",
+    "status": "Final"
   }
 ]
