@@ -13861,7 +13861,7 @@
     "road": "Guardians",
     "home": "Rays",
     "score": "8 - 9",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 717047,
@@ -13869,6 +13869,54 @@
     "road": "Yankees",
     "home": "Marlins",
     "score": "9 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717043,
+    "date": "2023-08-11",
+    "road": "Athletics",
+    "home": "Nationals",
+    "score": "2 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717046,
+    "date": "2023-08-11",
+    "road": "Reds",
+    "home": "Pirates",
+    "score": "9 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717044,
+    "date": "2023-08-11",
+    "road": "Twins",
+    "home": "Phillies",
+    "score": "2 - 13",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717041,
+    "date": "2023-08-11",
+    "road": "Cubs",
+    "home": "Blue Jays",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717042,
+    "date": "2023-08-11",
+    "road": "Tigers",
+    "home": "Red Sox",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717040,
+    "date": "2023-08-11",
+    "road": "Braves",
+    "home": "Mets",
+    "score": "7 - 0",
     "status": "Final"
   }
 ]
