@@ -13918,5 +13918,21 @@
     "home": "Mets",
     "score": "7 - 0",
     "status": "Final"
+  },
+  {
+    "gamePk": 717037,
+    "date": "2023-08-11",
+    "road": "Angels",
+    "home": "Astros",
+    "score": "3 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717039,
+    "date": "2023-08-11",
+    "road": "Cardinals",
+    "home": "Royals",
+    "score": "8 - 12",
+    "status": "Game Over"
   }
 ]
