@@ -13942,5 +13942,37 @@
     "home": "White Sox",
     "score": "7 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717035,
+    "date": "2023-08-11",
+    "road": "Padres",
+    "home": "Diamondbacks",
+    "score": "10 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717032,
+    "date": "2023-08-11",
+    "road": "Rockies",
+    "home": "Dodgers",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717034,
+    "date": "2023-08-11",
+    "road": "Orioles",
+    "home": "Mariners",
+    "score": "2 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717031,
+    "date": "2023-08-11",
+    "road": "Rangers",
+    "home": "Giants",
+    "score": "2 - 1",
+    "status": "Final"
   }
 ]
