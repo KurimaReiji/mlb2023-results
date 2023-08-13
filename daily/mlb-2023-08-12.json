@@ -110,5 +110,13 @@
     "home": "Dodgers",
     "score": "1 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 717018,
+    "date": "2023-08-12",
+    "road": "Orioles",
+    "home": "Mariners",
+    "score": "1 - 0",
+    "status": "Final"
   }
 ]
