@@ -13984,6 +13984,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717021,
+    "date": "2023-08-12",
+    "road": "Braves",
+    "home": "Mets",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
     "gamePk": 717026,
     "date": "2023-08-12",
     "road": "Cubs",
@@ -14013,6 +14021,46 @@
     "road": "Yankees",
     "home": "Marlins",
     "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717028,
+    "date": "2023-08-12",
+    "road": "Twins",
+    "home": "Phillies",
+    "score": "8 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717030,
+    "date": "2023-08-12",
+    "road": "Athletics",
+    "home": "Nationals",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717019,
+    "date": "2023-08-12",
+    "road": "Cardinals",
+    "home": "Royals",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717022,
+    "date": "2023-08-12",
+    "road": "Angels",
+    "home": "Astros",
+    "score": "3 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717023,
+    "date": "2023-08-12",
+    "road": "Brewers",
+    "home": "White Sox",
+    "score": "3 - 2",
     "status": "Final"
   }
 ]
