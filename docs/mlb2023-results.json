@@ -14072,11 +14072,19 @@
     "status": "Final"
   },
   {
+    "gamePk": 717029,
+    "date": "2023-08-12",
+    "road": "Rangers",
+    "home": "Giants",
+    "score": "9 - 3",
+    "status": "Final"
+  },
+  {
     "gamePk": 717017,
     "date": "2023-08-12",
     "road": "Rockies",
     "home": "Dodgers",
     "score": "1 - 4",
-    "status": "Game Over"
+    "status": "Final"
   }
 ]
