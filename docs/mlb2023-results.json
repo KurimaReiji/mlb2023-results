@@ -14094,5 +14094,109 @@
     "home": "Mariners",
     "score": "1 - 0",
     "status": "Final"
+  },
+  {
+    "gamePk": 717014,
+    "date": "2023-08-13",
+    "road": "Tigers",
+    "home": "Red Sox",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717016,
+    "date": "2023-08-13",
+    "road": "Athletics",
+    "home": "Nationals",
+    "score": "7 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717015,
+    "date": "2023-08-13",
+    "road": "Reds",
+    "home": "Pirates",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717009,
+    "date": "2023-08-13",
+    "road": "Twins",
+    "home": "Phillies",
+    "score": "3 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717012,
+    "date": "2023-08-13",
+    "road": "Cubs",
+    "home": "Blue Jays",
+    "score": "4 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717010,
+    "date": "2023-08-13",
+    "road": "Guardians",
+    "home": "Rays",
+    "score": "9 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717011,
+    "date": "2023-08-13",
+    "road": "Yankees",
+    "home": "Marlins",
+    "score": "7 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717004,
+    "date": "2023-08-13",
+    "road": "Angels",
+    "home": "Astros",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717006,
+    "date": "2023-08-13",
+    "road": "Brewers",
+    "home": "White Sox",
+    "score": "7 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717008,
+    "date": "2023-08-13",
+    "road": "Rangers",
+    "home": "Giants",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717007,
+    "date": "2023-08-13",
+    "road": "Rockies",
+    "home": "Dodgers",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717003,
+    "date": "2023-08-13",
+    "road": "Padres",
+    "home": "Diamondbacks",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717005,
+    "date": "2023-08-13",
+    "road": "Orioles",
+    "home": "Mariners",
+    "score": "5 - 3",
+    "status": "Final"
   }
 ]
