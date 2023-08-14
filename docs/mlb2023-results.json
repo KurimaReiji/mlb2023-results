@@ -14120,6 +14120,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 717027,
+    "date": "2023-08-13",
+    "road": "Reds",
+    "home": "Pirates",
+    "score": "6 - 5",
+    "status": "Final"
+  },
+  {
     "gamePk": 717009,
     "date": "2023-08-13",
     "road": "Twins",
@@ -14197,6 +14205,14 @@
     "road": "Orioles",
     "home": "Mariners",
     "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717013,
+    "date": "2023-08-13",
+    "road": "Braves",
+    "home": "Mets",
+    "score": "6 - 7",
     "status": "Final"
   }
 ]
