@@ -14222,5 +14222,21 @@
     "home": "Marlins",
     "score": "1 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 717002,
+    "date": "2023-08-14",
+    "road": "Pirates",
+    "home": "Mets",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 717001,
+    "date": "2023-08-14",
+    "road": "Yankees",
+    "home": "Braves",
+    "score": "3 - 11",
+    "status": "Final"
   }
 ]
