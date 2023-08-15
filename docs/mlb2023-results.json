@@ -14261,7 +14261,7 @@
     "road": "Mariners",
     "home": "Royals",
     "score": "6 - 7",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 716998,
@@ -14269,6 +14269,14 @@
     "road": "Diamondbacks",
     "home": "Rockies",
     "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716996,
+    "date": "2023-08-14",
+    "road": "Orioles",
+    "home": "Padres",
+    "score": "4 - 1",
     "status": "Final"
   }
 ]
