@@ -62,5 +62,13 @@
     "home": "Padres",
     "score": "4 - 1",
     "status": "Final"
+  },
+  {
+    "gamePk": 716999,
+    "date": "2023-08-14",
+    "road": "Rays",
+    "home": "Giants",
+    "score": "10 - 2",
+    "status": "Final"
   }
 ]
