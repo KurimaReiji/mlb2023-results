@@ -37,7 +37,7 @@
     "road": "Pirates",
     "home": "Mets",
     "score": "7 - 4",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 716987,
@@ -53,6 +53,30 @@
     "road": "Tigers",
     "home": "Twins",
     "score": "3 - 5",
-    "status": "Game Over"
+    "status": "Final"
+  },
+  {
+    "gamePk": 716984,
+    "date": "2023-08-15",
+    "road": "Athletics",
+    "home": "Cardinals",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716985,
+    "date": "2023-08-15",
+    "road": "Angels",
+    "home": "Rangers",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716986,
+    "date": "2023-08-15",
+    "road": "White Sox",
+    "home": "Cubs",
+    "score": "5 - 3",
+    "status": "Final"
   }
 ]
