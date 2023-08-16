@@ -14286,5 +14286,21 @@
     "home": "Giants",
     "score": "10 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 716992,
+    "date": "2023-08-15",
+    "road": "Guardians",
+    "home": "Reds",
+    "score": "3 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716991,
+    "date": "2023-08-15",
+    "road": "Astros",
+    "home": "Marlins",
+    "score": "6 - 5",
+    "status": "Final"
   }
 ]
