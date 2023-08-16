@@ -78,5 +78,37 @@
     "home": "Cubs",
     "score": "5 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 716981,
+    "date": "2023-08-15",
+    "road": "Mariners",
+    "home": "Royals",
+    "score": "10 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716978,
+    "date": "2023-08-15",
+    "road": "Diamondbacks",
+    "home": "Rockies",
+    "score": "8 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716989,
+    "date": "2023-08-15",
+    "road": "Rays",
+    "home": "Giants",
+    "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716979,
+    "date": "2023-08-15",
+    "road": "Brewers",
+    "home": "Dodgers",
+    "score": "2 - 6",
+    "status": "Game Over"
   }
 ]
