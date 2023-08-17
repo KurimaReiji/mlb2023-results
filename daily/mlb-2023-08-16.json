@@ -110,5 +110,13 @@
     "home": "Padres",
     "score": "2 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 716962,
+    "date": "2023-08-16",
+    "road": "Brewers",
+    "home": "Dodgers",
+    "score": "1 - 7",
+    "status": "Game Over"
   }
 ]
