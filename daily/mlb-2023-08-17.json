@@ -22,5 +22,21 @@
     "home": "Cardinals",
     "score": "4 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 716957,
+    "date": "2023-08-17",
+    "road": "Diamondbacks",
+    "home": "Padres",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716961,
+    "date": "2023-08-17",
+    "road": "Brewers",
+    "home": "Dodgers",
+    "score": "0 - 1",
+    "status": "Game Over"
   }
 ]
