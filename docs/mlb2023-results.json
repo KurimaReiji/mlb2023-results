@@ -14526,5 +14526,21 @@
     "home": "Dodgers",
     "score": "1 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 716964,
+    "date": "2023-08-17",
+    "road": "Mariners",
+    "home": "Royals",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716966,
+    "date": "2023-08-17",
+    "road": "Red Sox",
+    "home": "Nationals",
+    "score": "7 - 10",
+    "status": "Final"
   }
 ]
