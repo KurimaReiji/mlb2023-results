@@ -29,7 +29,7 @@
     "road": "Marlins",
     "home": "Dodgers",
     "score": "1 - 3",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 716919,
@@ -37,6 +37,14 @@
     "road": "Diamondbacks",
     "home": "Padres",
     "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716931,
+    "date": "2023-08-19",
+    "road": "Diamondbacks",
+    "home": "Padres",
+    "score": "8 - 1",
     "status": "Final"
   },
   {
@@ -61,6 +69,14 @@
     "road": "Rays",
     "home": "Angels",
     "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716925,
+    "date": "2023-08-19",
+    "road": "Rays",
+    "home": "Angels",
+    "score": "18 - 4",
     "status": "Final"
   },
   {
@@ -117,6 +133,14 @@
     "road": "White Sox",
     "home": "Rockies",
     "score": "5 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716930,
+    "date": "2023-08-19",
+    "road": "Orioles",
+    "home": "Athletics",
+    "score": "7 - 2",
     "status": "Final"
   }
 ]
