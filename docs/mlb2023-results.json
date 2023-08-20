@@ -14720,6 +14720,14 @@
     "status": "Final"
   },
   {
+    "gamePk": 716926,
+    "date": "2023-08-19",
+    "road": "Marlins",
+    "home": "Dodgers",
+    "score": "1 - 3",
+    "status": "Game Over"
+  },
+  {
     "gamePk": 716919,
     "date": "2023-08-19",
     "road": "Diamondbacks",
@@ -14781,7 +14789,7 @@
     "road": "Pirates",
     "home": "Twins",
     "score": "7 - 4",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 716940,
@@ -14797,6 +14805,14 @@
     "road": "Giants",
     "home": "Braves",
     "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716933,
+    "date": "2023-08-19",
+    "road": "White Sox",
+    "home": "Rockies",
+    "score": "5 - 11",
     "status": "Final"
   }
 ]
