@@ -5,7 +5,7 @@
     "road": "Cubs",
     "home": "Tigers",
     "score": "7 - 6",
-    "status": "Game Over"
+    "status": "Final"
   },
   {
     "gamePk": 716911,
@@ -14,5 +14,21 @@
     "home": "Phillies",
     "score": "4 - 10",
     "status": "Final"
+  },
+  {
+    "gamePk": 716912,
+    "date": "2023-08-21",
+    "road": "Cardinals",
+    "home": "Pirates",
+    "score": "1 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716910,
+    "date": "2023-08-21",
+    "road": "Mets",
+    "home": "Braves",
+    "score": "10 - 4",
+    "status": "Game Over"
   }
 ]
