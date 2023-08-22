@@ -14934,5 +14934,21 @@
     "home": "Nationals",
     "score": "3 - 4",
     "status": "Final"
+  },
+  {
+    "gamePk": 716913,
+    "date": "2023-08-21",
+    "road": "Cubs",
+    "home": "Tigers",
+    "score": "7 - 6",
+    "status": "Game Over"
+  },
+  {
+    "gamePk": 716911,
+    "date": "2023-08-21",
+    "road": "Giants",
+    "home": "Phillies",
+    "score": "4 - 10",
+    "status": "Final"
   }
 ]
