@@ -15109,7 +15109,15 @@
     "road": "Royals",
     "home": "Athletics",
     "score": "4 - 5",
-    "status": "Game Over"
+    "status": "Final"
+  },
+  {
+    "gamePk": 716889,
+    "date": "2023-08-22",
+    "road": "Rangers",
+    "home": "Diamondbacks",
+    "score": "3 - 6",
+    "status": "Final"
   },
   {
     "gamePk": 716887,
