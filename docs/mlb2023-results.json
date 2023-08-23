@@ -15070,5 +15070,29 @@
     "home": "Braves",
     "score": "2 - 3",
     "status": "Final"
+  },
+  {
+    "gamePk": 716895,
+    "date": "2023-08-22",
+    "road": "Red Sox",
+    "home": "Astros",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716893,
+    "date": "2023-08-22",
+    "road": "Mariners",
+    "home": "White Sox",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716894,
+    "date": "2023-08-22",
+    "road": "Twins",
+    "home": "Brewers",
+    "score": "3 - 7",
+    "status": "Final"
   }
 ]
