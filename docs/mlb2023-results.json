@@ -15222,5 +15222,13 @@
     "home": "Braves",
     "score": "0 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 716878,
+    "date": "2023-08-23",
+    "road": "Red Sox",
+    "home": "Astros",
+    "score": "7 - 5",
+    "status": "Final"
   }
 ]
