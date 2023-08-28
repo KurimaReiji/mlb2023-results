@@ -15558,5 +15558,125 @@
     "home": "Diamondbacks",
     "score": "8 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 716829,
+    "date": "2023-08-27",
+    "road": "Angels",
+    "home": "Mets",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716836,
+    "date": "2023-08-27",
+    "road": "Rockies",
+    "home": "Orioles",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716831,
+    "date": "2023-08-27",
+    "road": "Dodgers",
+    "home": "Red Sox",
+    "score": "7 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716834,
+    "date": "2023-08-27",
+    "road": "Cubs",
+    "home": "Pirates",
+    "score": "10 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716835,
+    "date": "2023-08-27",
+    "road": "Cardinals",
+    "home": "Phillies",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716825,
+    "date": "2023-08-27",
+    "road": "Guardians",
+    "home": "Blue Jays",
+    "score": "10 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716830,
+    "date": "2023-08-27",
+    "road": "Astros",
+    "home": "Tigers",
+    "score": "17 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716827,
+    "date": "2023-08-27",
+    "road": "Nationals",
+    "home": "Marlins",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716828,
+    "date": "2023-08-27",
+    "road": "Yankees",
+    "home": "Rays",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716824,
+    "date": "2023-08-27",
+    "road": "Rangers",
+    "home": "Twins",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716826,
+    "date": "2023-08-27",
+    "road": "Athletics",
+    "home": "White Sox",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716822,
+    "date": "2023-08-27",
+    "road": "Padres",
+    "home": "Brewers",
+    "score": "6 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716821,
+    "date": "2023-08-27",
+    "road": "Reds",
+    "home": "Diamondbacks",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716820,
+    "date": "2023-08-27",
+    "road": "Royals",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716819,
+    "date": "2023-08-27",
+    "road": "Braves",
+    "home": "Giants",
+    "score": "5 - 8",
+    "status": "Final"
   }
 ]
