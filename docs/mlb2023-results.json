@@ -16030,5 +16030,37 @@
     "home": "Dodgers",
     "score": "0 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 716775,
+    "date": "2023-08-31",
+    "road": "Yankees",
+    "home": "Tigers",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716776,
+    "date": "2023-08-31",
+    "road": "Marlins",
+    "home": "Nationals",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716777,
+    "date": "2023-08-31",
+    "road": "Giants",
+    "home": "Padres",
+    "score": "7 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716768,
+    "date": "2023-08-31",
+    "road": "Braves",
+    "home": "Dodgers",
+    "score": "8 - 7",
+    "status": "Final"
   }
 ]
