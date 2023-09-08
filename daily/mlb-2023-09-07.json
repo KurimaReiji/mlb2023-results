@@ -1,0 +1,50 @@
+[
+  {
+    "gamePk": 716683,
+    "date": "2023-09-07",
+    "road": "Mariners",
+    "home": "Rays",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716682,
+    "date": "2023-09-07",
+    "road": "Dodgers",
+    "home": "Marlins",
+    "score": "10 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716686,
+    "date": "2023-09-07",
+    "road": "Tigers",
+    "home": "Yankees",
+    "score": "10 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716680,
+    "date": "2023-09-07",
+    "road": "Cardinals",
+    "home": "Braves",
+    "score": "5 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716685,
+    "date": "2023-09-07",
+    "road": "Diamondbacks",
+    "home": "Cubs",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716684,
+    "date": "2023-09-07",
+    "road": "Guardians",
+    "home": "Angels",
+    "score": "2 - 3",
+    "status": "Final"
+  }
+]
