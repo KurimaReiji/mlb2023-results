@@ -17166,5 +17166,109 @@
     "home": "Giants",
     "score": "3 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 717664,
+    "date": "2023-09-11",
+    "road": "Braves",
+    "home": "Phillies",
+    "score": "10 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716590,
+    "date": "2023-09-11",
+    "road": "Braves",
+    "home": "Phillies",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716635,
+    "date": "2023-09-11",
+    "road": "Nationals",
+    "home": "Pirates",
+    "score": "6 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716636,
+    "date": "2023-09-11",
+    "road": "Cardinals",
+    "home": "Orioles",
+    "score": "5 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716630,
+    "date": "2023-09-11",
+    "road": "Rangers",
+    "home": "Blue Jays",
+    "score": "10 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716627,
+    "date": "2023-09-11",
+    "road": "Diamondbacks",
+    "home": "Mets",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716629,
+    "date": "2023-09-11",
+    "road": "Rays",
+    "home": "Twins",
+    "score": "7 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716626,
+    "date": "2023-09-11",
+    "road": "Marlins",
+    "home": "Brewers",
+    "score": "0 - 12",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716624,
+    "date": "2023-09-11",
+    "road": "Athletics",
+    "home": "Astros",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716625,
+    "date": "2023-09-11",
+    "road": "Cubs",
+    "home": "Rockies",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716623,
+    "date": "2023-09-11",
+    "road": "Angels",
+    "home": "Mariners",
+    "score": "8 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716632,
+    "date": "2023-09-11",
+    "road": "Guardians",
+    "home": "Giants",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716622,
+    "date": "2023-09-11",
+    "road": "Padres",
+    "home": "Dodgers",
+    "score": "11 - 8",
+    "status": "Final"
   }
 ]
