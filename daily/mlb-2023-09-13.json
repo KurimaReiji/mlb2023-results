@@ -1,0 +1,114 @@
+[
+  {
+    "gamePk": 716607,
+    "date": "2023-09-13",
+    "road": "Rays",
+    "home": "Twins",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716599,
+    "date": "2023-09-13",
+    "road": "Cubs",
+    "home": "Rockies",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716605,
+    "date": "2023-09-13",
+    "road": "Guardians",
+    "home": "Giants",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716602,
+    "date": "2023-09-13",
+    "road": "Angels",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716600,
+    "date": "2023-09-13",
+    "road": "Nationals",
+    "home": "Pirates",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716604,
+    "date": "2023-09-13",
+    "road": "Cardinals",
+    "home": "Orioles",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716601,
+    "date": "2023-09-13",
+    "road": "Reds",
+    "home": "Tigers",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716603,
+    "date": "2023-09-13",
+    "road": "Braves",
+    "home": "Phillies",
+    "score": "4 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716594,
+    "date": "2023-09-13",
+    "road": "Rangers",
+    "home": "Blue Jays",
+    "score": "10 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716595,
+    "date": "2023-09-13",
+    "road": "Diamondbacks",
+    "home": "Mets",
+    "score": "1 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716596,
+    "date": "2023-09-13",
+    "road": "Athletics",
+    "home": "Astros",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716598,
+    "date": "2023-09-13",
+    "road": "Royals",
+    "home": "White Sox",
+    "score": "7 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716592,
+    "date": "2023-09-13",
+    "road": "Marlins",
+    "home": "Brewers",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716589,
+    "date": "2023-09-13",
+    "road": "Padres",
+    "home": "Dodgers",
+    "score": "6 - 1",
+    "status": "Final"
+  }
+]
