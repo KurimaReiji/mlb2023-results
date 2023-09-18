@@ -1,0 +1,122 @@
+[
+  {
+    "gamePk": 716553,
+    "date": "2023-09-17",
+    "road": "Rays",
+    "home": "Orioles",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716551,
+    "date": "2023-09-17",
+    "road": "Yankees",
+    "home": "Pirates",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716548,
+    "date": "2023-09-17",
+    "road": "Red Sox",
+    "home": "Blue Jays",
+    "score": "2 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716545,
+    "date": "2023-09-17",
+    "road": "Reds",
+    "home": "Mets",
+    "score": "4 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716549,
+    "date": "2023-09-17",
+    "road": "Rangers",
+    "home": "Guardians",
+    "score": "2 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716546,
+    "date": "2023-09-17",
+    "road": "Braves",
+    "home": "Marlins",
+    "score": "2 - 16",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716547,
+    "date": "2023-09-17",
+    "road": "Astros",
+    "home": "Royals",
+    "score": "7 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716542,
+    "date": "2023-09-17",
+    "road": "Twins",
+    "home": "White Sox",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716543,
+    "date": "2023-09-17",
+    "road": "Nationals",
+    "home": "Brewers",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716541,
+    "date": "2023-09-17",
+    "road": "Phillies",
+    "home": "Cardinals",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716540,
+    "date": "2023-09-17",
+    "road": "Giants",
+    "home": "Rockies",
+    "score": "11 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716544,
+    "date": "2023-09-17",
+    "road": "Tigers",
+    "home": "Angels",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716538,
+    "date": "2023-09-17",
+    "road": "Padres",
+    "home": "Athletics",
+    "score": "10 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716537,
+    "date": "2023-09-17",
+    "road": "Dodgers",
+    "home": "Mariners",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716536,
+    "date": "2023-09-17",
+    "road": "Cubs",
+    "home": "Diamondbacks",
+    "score": "2 - 6",
+    "status": "Final"
+  }
+]
