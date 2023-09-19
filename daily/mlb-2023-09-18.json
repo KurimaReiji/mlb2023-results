@@ -1,0 +1,90 @@
+[
+  {
+    "gamePk": 716529,
+    "date": "2023-09-18",
+    "road": "Guardians",
+    "home": "Royals",
+    "score": "4 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716534,
+    "date": "2023-09-18",
+    "road": "Twins",
+    "home": "Reds",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716535,
+    "date": "2023-09-18",
+    "road": "Mets",
+    "home": "Marlins",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716539,
+    "date": "2023-09-18",
+    "road": "White Sox",
+    "home": "Nationals",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716532,
+    "date": "2023-09-18",
+    "road": "Phillies",
+    "home": "Braves",
+    "score": "7 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716531,
+    "date": "2023-09-18",
+    "road": "Brewers",
+    "home": "Cardinals",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716533,
+    "date": "2023-09-18",
+    "road": "Red Sox",
+    "home": "Rangers",
+    "score": "4 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716530,
+    "date": "2023-09-18",
+    "road": "Orioles",
+    "home": "Astros",
+    "score": "8 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716526,
+    "date": "2023-09-18",
+    "road": "Rockies",
+    "home": "Padres",
+    "score": "9 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716527,
+    "date": "2023-09-18",
+    "road": "Mariners",
+    "home": "Athletics",
+    "score": "5 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716528,
+    "date": "2023-09-18",
+    "road": "Tigers",
+    "home": "Dodgers",
+    "score": "3 - 8",
+    "status": "Final"
+  }
+]
