@@ -18286,5 +18286,77 @@
     "home": "Dodgers",
     "score": "4 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 716498,
+    "date": "2023-09-21",
+    "road": "Angels",
+    "home": "Rays",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716491,
+    "date": "2023-09-21",
+    "road": "Brewers",
+    "home": "Cardinals",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716496,
+    "date": "2023-09-21",
+    "road": "Braves",
+    "home": "Nationals",
+    "score": "10 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716492,
+    "date": "2023-09-21",
+    "road": "Blue Jays",
+    "home": "Yankees",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716489,
+    "date": "2023-09-21",
+    "road": "Orioles",
+    "home": "Guardians",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716490,
+    "date": "2023-09-21",
+    "road": "Mets",
+    "home": "Phillies",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716493,
+    "date": "2023-09-21",
+    "road": "Pirates",
+    "home": "Cubs",
+    "score": "8 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716488,
+    "date": "2023-09-21",
+    "road": "Tigers",
+    "home": "Athletics",
+    "score": "7 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716484,
+    "date": "2023-09-21",
+    "road": "Giants",
+    "home": "Dodgers",
+    "score": "2 - 7",
+    "status": "Final"
   }
 ]
