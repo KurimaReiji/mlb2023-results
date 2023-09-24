@@ -18478,5 +18478,109 @@
     "home": "Dodgers",
     "score": "5 - 1",
     "status": "Final"
+  },
+  {
+    "gamePk": 716465,
+    "date": "2023-09-23",
+    "road": "Angels",
+    "home": "Twins",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716469,
+    "date": "2023-09-23",
+    "road": "Rockies",
+    "home": "Cubs",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716466,
+    "date": "2023-09-23",
+    "road": "Mets",
+    "home": "Phillies",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716470,
+    "date": "2023-09-23",
+    "road": "Tigers",
+    "home": "Athletics",
+    "score": "1 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716463,
+    "date": "2023-09-23",
+    "road": "Blue Jays",
+    "home": "Rays",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716468,
+    "date": "2023-09-23",
+    "road": "White Sox",
+    "home": "Red Sox",
+    "score": "1 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716460,
+    "date": "2023-09-23",
+    "road": "Brewers",
+    "home": "Marlins",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716464,
+    "date": "2023-09-23",
+    "road": "Orioles",
+    "home": "Guardians",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716462,
+    "date": "2023-09-23",
+    "road": "Pirates",
+    "home": "Reds",
+    "score": "13 - 12",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716461,
+    "date": "2023-09-23",
+    "road": "Mariners",
+    "home": "Rangers",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716455,
+    "date": "2023-09-23",
+    "road": "Royals",
+    "home": "Astros",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716457,
+    "date": "2023-09-23",
+    "road": "Cardinals",
+    "home": "Padres",
+    "score": "5 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716456,
+    "date": "2023-09-23",
+    "road": "Giants",
+    "home": "Dodgers",
+    "score": "0 - 7",
+    "status": "Final"
   }
 ]
