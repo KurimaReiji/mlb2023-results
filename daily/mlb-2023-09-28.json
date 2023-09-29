@@ -1,0 +1,90 @@
+[
+  {
+    "gamePk": 716414,
+    "date": "2023-09-27",
+    "road": "Royals",
+    "home": "Tigers",
+    "score": "0 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716400,
+    "date": "2023-09-28",
+    "road": "Athletics",
+    "home": "Twins",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716443,
+    "date": "2023-09-28",
+    "road": "Diamondbacks",
+    "home": "White Sox",
+    "score": "1 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716401,
+    "date": "2023-09-28",
+    "road": "Royals",
+    "home": "Tigers",
+    "score": "3 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716396,
+    "date": "2023-09-28",
+    "road": "Cardinals",
+    "home": "Brewers",
+    "score": "0 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716409,
+    "date": "2023-09-28",
+    "road": "Pirates",
+    "home": "Phillies",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716402,
+    "date": "2023-09-28",
+    "road": "Red Sox",
+    "home": "Orioles",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716403,
+    "date": "2023-09-28",
+    "road": "Yankees",
+    "home": "Blue Jays",
+    "score": "0 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716399,
+    "date": "2023-09-28",
+    "road": "Cubs",
+    "home": "Braves",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716405,
+    "date": "2023-09-28",
+    "road": "Dodgers",
+    "home": "Rockies",
+    "score": "5 - 14",
+    "status": "Final"
+  },
+  {
+    "gamePk": 716397,
+    "date": "2023-09-28",
+    "road": "Rangers",
+    "home": "Mariners",
+    "score": "2 - 3",
+    "status": "Final"
+  }
+]
